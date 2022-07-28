@@ -1,0 +1,5 @@
+.idea
+otusHomeWork.iml
+out
+# Project exclude paths
+/target/
