@@ -17,6 +17,7 @@ public class LoginPassword {
         this.password = password;
     }
 
-    private String login ="mk66@mailinator.com";
-    private   String password="57570000Vks!";
+    private String login = System.getProperty("login");
+    private String password=System.getProperty("password");
+
 }

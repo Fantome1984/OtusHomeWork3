@@ -1,28 +1,51 @@
 package helper;
-
 import io.github.bonigarcia.wdm.WebDriverManager;
-import org.junit.After;
-import org.junit.Before;
+import org.apache.logging.log4j.LogManager;
+import org.junit.jupiter.api.AfterEach;
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.TestInfo;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
+
 
 import java.util.concurrent.TimeUnit;
 
 public class BaseUiTest {
     protected WebDriver driver;
+    public org.apache.logging.log4j.Logger logger = LogManager.getLogger(Logger.class);
 
 
-    @Before
-    public void setUp() {
+
+    @BeforeEach
+    public void setUp(TestInfo info) {
         WebDriverManager.chromedriver().setup();
-          driver = new ChromeDriver();
-          driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-
+        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+        if (info.getTags().contains("headless")) {
+            ChromeOptions options = new ChromeOptions();
+            options.addArguments("headless");
+            options.addArguments("window-size=3456x2234");
+            driver = new ChromeDriver(options);
+            logger.info("Открыли Chrome в headless режиме");
+        } else if (info.getTags().contains("fullscreen")) {
+            driver = new ChromeDriver();
+            driver.manage().window().fullscreen();
+            logger.info("Открыли Chrome в режиме киоска");
+        } else if (info.getTags().contains("maximize")) {
+            driver = new ChromeDriver();
+            driver.manage().window().maximize();
+            logger.info("Открыли Chrome в режиме полного экрана");
+        } else {
+            driver = new ChromeDriver();
+            logger.info("Открыли Chrome в обычном режиме");
+        }
     }
-    @After
-    public void setDown(){
-        if (driver != null);
-        driver.quit();
+
+
+  @AfterEach
+    public void setDown() {
+        if (driver != null)
+            driver.quit();
     }
 }
+
