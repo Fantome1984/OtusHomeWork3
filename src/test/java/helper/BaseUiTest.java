@@ -17,10 +17,12 @@ public class BaseUiTest {
 
 
 
+
+
+
     @BeforeEach
     public void setUp(TestInfo info) {
         WebDriverManager.chromedriver().setup();
-        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
         if (info.getTags().contains("headless")) {
             ChromeOptions options = new ChromeOptions();
             options.addArguments("headless");
@@ -39,8 +41,8 @@ public class BaseUiTest {
             driver = new ChromeDriver();
             logger.info("Открыли Chrome в обычном режиме");
         }
+        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
     }
-
 
   @AfterEach
     public void setDown() {

@@ -1,14 +1,15 @@
 import helper.*;
 import org.apache.logging.log4j.LogManager;
-import org.junit.Assert;
-import org.junit.Test;
+import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Tag;
+import org.junit.jupiter.api.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
 
 
-public class UiTest extends BaseUiTest{
+
+public class UiTest extends BaseUiTest {
 
     public org.apache.logging.log4j.Logger logger = LogManager.getLogger(Logger.class);
 
@@ -27,7 +28,8 @@ public class UiTest extends BaseUiTest{
         WebElement element = driver.findElement(By.xpath("//div[@class='ikg2IXiCD14iVX7AdZo1']"));
         String actual = element.getText();
         String exspected ="Онлайн‑курсы для профессионалов, дистанционное обучение современным ...";
-        Assert.assertEquals(actual,exspected);
+        Assertions.assertEquals(actual,exspected);
+
         logger.info("Проверка поисковой выдачи");
 
 
@@ -45,11 +47,11 @@ public class UiTest extends BaseUiTest{
         driver.findElement(By.xpath("//li[@data-id='id-1']")).click();
         logger.info("Кликнули по картинке");
 
-        VisibilityСheck visibilityСheck = new VisibilityСheck(driver);
-        visibilityСheck.isVisible("//div[@class='pp_pic_holder light_rounded']");
+       VisibilityСheck visibilityСheck = new VisibilityСheck(driver);
+       visibilityСheck.isVisible("//div[@class='pp_pic_holder light_rounded']");
         WebElement actual = driver.findElement(By.xpath("//div[@class='pp_pic_holder light_rounded']"));
         WebElement exspected = driver.findElement(By.xpath("//div[@class='pp_pic_holder light_rounded']"));
-        Assert.assertEquals(actual,exspected);
+       Assertions.assertEquals(actual,exspected);
         logger.info("Проверили что картинка открылась в модальном окне");
 
 
@@ -67,14 +69,14 @@ public class UiTest extends BaseUiTest{
         logger.info("Произвели авторизацю");
         logger.info(driver.manage().getCookies());
         logger.info("Вывели Cookie");
-        Assert.assertEquals(14, driver.manage().getCookies().size());
-        logger.info("Проверили количество Cookie");
         WebElement element = driver.findElement(By.xpath("//div [@class='header2-menu__item-wrapper " +
                 "header2-menu__item-wrapper__username']"));
         String actual = element.getText();
         String exspected ="Румпель";
-        Assert.assertEquals(actual,exspected);
+      Assertions.assertEquals(actual,exspected);
         logger.info("Проверили имя указанное при регистрации на главной странице сайта");
+        Assertions.assertEquals(14, driver.manage().getCookies().size());
+        logger.info("Проверили количество Cookie");
 
 
 

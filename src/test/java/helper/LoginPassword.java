@@ -20,4 +20,5 @@ public class LoginPassword {
     private String login = System.getProperty("login");
     private String password=System.getProperty("password");
 
+
 }
