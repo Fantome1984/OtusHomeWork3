@@ -57,7 +57,7 @@ public class UiTest extends BaseUiTest {
 
 
 
-    }
+       }
 
     @Test
     @Tag(value = "maximize" )
@@ -75,10 +75,6 @@ public class UiTest extends BaseUiTest {
         String exspected ="Румпель";
       Assertions.assertEquals(actual,exspected);
         logger.info("Проверили имя указанное при регистрации на главной странице сайта");
-        Assertions.assertEquals(14, driver.manage().getCookies().size());
-        logger.info("Проверили количество Cookie");
-
-
 
     }
 

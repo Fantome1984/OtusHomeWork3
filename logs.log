@@ -285,3 +285,78 @@
 2022-08-23 12:59:24,663 INFO h.Logger [main] РџСЂРѕРІРµСЂРєР° РїРѕРёСЃРєРѕРІРѕР№ РІС‹РґР°С‡Рё
 2022-08-23 12:59:45,843 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ СЂРµР¶РёРјРµ РїРѕР»РЅРѕРіРѕ СЌРєСЂР°РЅР°
 2022-08-23 12:59:50,217 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё СЃР°Р№С‚ РћС‚СѓСЃР°
+2022-08-23 19:58:03,176 INFO h.Logger [main] Открыли Chrome в режиме киоска
+2022-08-23 19:58:03,213 INFO h.Logger [main] Открыли браузер в fullscreen
+2022-08-23 19:58:05,841 INFO h.Logger [main] Перешли на сайт
+2022-08-23 19:58:06,011 INFO h.Logger [main] Кликнули по картинке
+2022-08-23 19:58:16,322 INFO h.Logger [main] Проверили что картинка открылась в модальном окне
+2022-08-23 19:58:19,932 INFO h.Logger [main] Открыли Chrome в headless режиме
+2022-08-23 19:58:19,944 INFO h.Logger [main] Открыли браузер в headless режиме
+2022-08-23 19:58:21,851 INFO h.Logger [main] Перешли в поисковую систему
+2022-08-23 19:58:24,825 INFO h.Logger [main] Ввели в поисковю строку ОТУС и кликнули по кнопке поиска 
+2022-08-23 19:58:24,921 INFO h.Logger [main] Проверка поисковой выдачи
+2022-08-23 19:58:28,252 INFO h.Logger [main] Открыли Chrome в режиме полного экрана
+2022-08-23 19:58:32,010 INFO h.Logger [main] Открыли сайт Отуса
+2022-08-23 19:58:34,520 INFO h.Logger [main] Произвели авторизацю
+2022-08-23 19:58:34,577 INFO h.Logger [main] [advcake_track_id=05708e18-8e3e-5d26-6e83-f8fba4207693; expires=чт, 22 сент. 2022 07:58:31 MSK; path=/; domain=.otus.ru, oid=94044b7feb16a93e44e20e8b7f55e777; expires=ср, 27 сент. 2023 07:58:32 MSK; path=/; domain=.otus.ru, sessionid=d9b0g7pbicu65qkvw6qxm359brpday6d; expires=пн, 21 нояб. 2022 07:58:29 MSK; path=/; domain=otus.ru; sameSite=Lax, _ym_d=1661273912; expires=ср, 23 авг. 2023 07:58:31 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _tt_enable_cookie=1; expires=вс, 17 сент. 2023 07:58:31 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=вт, 23 авг. 2022 08:28:32 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _gid=GA1.2.1159839323.1661273911; expires=ср, 24 авг. 2022 07:58:31 MSK; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=ср, 27 сент. 2023 07:58:32 MSK; path=/; domain=.otus.ru, _ym_uid=1661273912995118358; expires=ср, 23 авг. 2023 07:58:31 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _gat=1; expires=вт, 23 авг. 2022 07:59:31 MSK; path=/; domain=.otus.ru, _ym_isad=2; expires=ср, 24 авг. 2022 03:58:31 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ga=GA1.2.1235142000.1661273911; expires=ср, 27 сент. 2023 07:58:31 MSK; path=/; domain=.otus.ru, _ttp=6a11c67c-a618-4e2f-bdf1-b84ba4e356ca; expires=вс, 17 сент. 2023 07:58:31 MSK; path=/; domain=.otus.ru, advcake_session_id=71e477ac-e12d-bbeb-2c8b-e7ecf1c80c59; expires=чт, 22 сент. 2022 07:58:31 MSK; path=/; domain=.otus.ru]
+2022-08-23 19:58:34,580 INFO h.Logger [main] Вывели Cookie
+2022-08-23 19:58:38,195 INFO h.Logger [main] Проверили имя указанное при регистрации на главной странице сайта
+2022-08-23 19:59:52,006 INFO h.Logger [main] Открыли Chrome в режиме киоска
+2022-08-23 19:59:52,040 INFO h.Logger [main] Открыли браузер в fullscreen
+2022-08-23 19:59:53,499 INFO h.Logger [main] Перешли на сайт
+2022-08-23 19:59:53,813 INFO h.Logger [main] Кликнули по картинке
+2022-08-23 20:00:04,092 INFO h.Logger [main] Проверили что картинка открылась в модальном окне
+2022-08-23 20:00:07,070 INFO h.Logger [main] Открыли Chrome в headless режиме
+2022-08-23 20:00:07,082 INFO h.Logger [main] Открыли браузер в headless режиме
+2022-08-23 20:00:10,046 INFO h.Logger [main] Перешли в поисковую систему
+2022-08-23 20:00:13,020 INFO h.Logger [main] Ввели в поисковю строку ОТУС и кликнули по кнопке поиска 
+2022-08-23 20:00:13,194 INFO h.Logger [main] Проверка поисковой выдачи
+2022-08-23 20:00:16,285 INFO h.Logger [main] Открыли Chrome в режиме полного экрана
+2022-08-23 20:00:20,327 INFO h.Logger [main] Открыли сайт Отуса
+2022-08-23 20:00:22,378 INFO h.Logger [main] Произвели авторизацю
+2022-08-23 20:00:22,468 INFO h.Logger [main] [advcake_track_id=5d8e97f0-227c-b012-8784-35c1bce43096; expires=чт, 22 сент. 2022 08:00:19 MSK; path=/; domain=.otus.ru, oid=3b80e9376c1b1f54e3287c147737cd36; expires=ср, 27 сент. 2023 08:00:20 MSK; path=/; domain=.otus.ru, sessionid=s7g69whvc3i33g4aj3gn0grz2qxbr8e2; expires=пн, 21 нояб. 2022 08:00:17 MSK; path=/; domain=otus.ru; sameSite=Lax, _ym_d=1661274019; expires=ср, 23 авг. 2023 08:00:18 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _tt_enable_cookie=1; expires=вс, 17 сент. 2023 08:00:20 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=вт, 23 авг. 2022 08:30:20 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _gid=GA1.2.1346650256.1661274019; expires=ср, 24 авг. 2022 08:00:18 MSK; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=ср, 27 сент. 2023 08:00:20 MSK; path=/; domain=.otus.ru, _ym_uid=1661274019956246793; expires=ср, 23 авг. 2023 08:00:18 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _gat=1; expires=вт, 23 авг. 2022 08:01:18 MSK; path=/; domain=.otus.ru, _ym_isad=2; expires=ср, 24 авг. 2022 04:00:19 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ga=GA1.2.1017436840.1661274019; expires=ср, 27 сент. 2023 08:00:18 MSK; path=/; domain=.otus.ru, _ttp=10ebfee0-29ec-499a-9b45-0842a3004c7a; expires=вс, 17 сент. 2023 08:00:20 MSK; path=/; domain=.otus.ru, advcake_session_id=7ca9e4b5-4ed7-840f-69a7-a032435a9b73; expires=чт, 22 сент. 2022 08:00:19 MSK; path=/; domain=.otus.ru]
+2022-08-23 20:00:22,470 INFO h.Logger [main] Вывели Cookie
+2022-08-23 20:00:25,873 INFO h.Logger [main] Проверили имя указанное при регистрации на главной странице сайта
+2022-08-23 20:07:13,212 INFO h.Logger [main] Открыли Chrome в headless режиме
+2022-08-23 20:07:13,264 INFO h.Logger [main] Открыли браузер в headless режиме
+2022-08-23 20:07:16,840 INFO h.Logger [main] Перешли в поисковую систему
+2022-08-23 20:07:20,891 INFO h.Logger [main] Ввели в поисковю строку ОТУС и кликнули по кнопке поиска 
+2022-08-23 20:07:21,200 INFO h.Logger [main] Проверка поисковой выдачи
+2022-08-23 20:08:43,226 INFO h.Logger [main] Открыли Chrome в режиме киоска
+2022-08-23 20:08:43,254 INFO h.Logger [main] Открыли браузер в fullscreen
+2022-08-23 20:08:46,686 INFO h.Logger [main] Перешли на сайт
+2022-08-23 20:08:46,977 INFO h.Logger [main] Кликнули по картинке
+2022-08-23 20:08:57,260 INFO h.Logger [main] Проверили что картинка открылась в модальном окне
+2022-08-23 20:09:01,421 INFO h.Logger [main] Открыли Chrome в headless режиме
+2022-08-23 20:09:01,458 INFO h.Logger [main] Открыли браузер в headless режиме
+2022-08-23 20:09:04,692 INFO h.Logger [main] Перешли в поисковую систему
+2022-08-23 20:09:08,321 INFO h.Logger [main] Ввели в поисковю строку ОТУС и кликнули по кнопке поиска 
+2022-08-23 20:09:08,474 INFO h.Logger [main] Проверка поисковой выдачи
+2022-08-23 20:10:05,069 INFO h.Logger [main] Открыли Chrome в режиме полного экрана
+2022-08-23 20:10:09,473 INFO h.Logger [main] Открыли сайт Отуса
+2022-08-23 20:10:10,817 INFO h.Logger [main] Произвели авторизацю
+2022-08-23 20:10:10,869 INFO h.Logger [main] [advcake_track_id=271eec16-809a-43a7-cab5-f37bac8e9b29; expires=чт, 22 сент. 2022 08:10:07 MSK; path=/; domain=.otus.ru, oid=dd5a9707fbfcd65c61af3ee1d2810153; expires=ср, 27 сент. 2023 08:10:09 MSK; path=/; domain=.otus.ru, sessionid=r1tonif90d5tpc6mftyhimm2ly1gcp62; expires=пн, 21 нояб. 2022 08:10:06 MSK; path=/; domain=otus.ru; sameSite=Lax, _ym_d=1661274608; expires=ср, 23 авг. 2023 08:10:07 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _tt_enable_cookie=1; expires=вс, 17 сент. 2023 08:10:08 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=вт, 23 авг. 2022 08:40:08 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _gid=GA1.2.1073532088.1661274608; expires=ср, 24 авг. 2022 08:10:07 MSK; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=ср, 27 сент. 2023 08:10:09 MSK; path=/; domain=.otus.ru, _ym_uid=1661274608785614590; expires=ср, 23 авг. 2023 08:10:07 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _gat=1; expires=вт, 23 авг. 2022 08:11:07 MSK; path=/; domain=.otus.ru, _ym_isad=2; expires=ср, 24 авг. 2022 04:10:07 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ga=GA1.2.2099967730.1661274608; expires=ср, 27 сент. 2023 08:10:07 MSK; path=/; domain=.otus.ru, _ttp=d2aedd77-580d-40b6-b9cd-3effd7b27ed5; expires=вс, 17 сент. 2023 08:10:08 MSK; path=/; domain=.otus.ru, advcake_session_id=e4d252ca-e7c2-e947-9267-fbc8e29054d1; expires=чт, 22 сент. 2022 08:10:07 MSK; path=/; domain=.otus.ru]
+2022-08-23 20:10:10,880 INFO h.Logger [main] Вывели Cookie
+2022-08-23 20:10:14,913 INFO h.Logger [main] Проверили имя указанное при регистрации на главной странице сайта
+2022-08-23 20:11:00,713 INFO h.Logger [main] Открыли Chrome в режиме полного экрана
+2022-08-23 20:11:04,904 INFO h.Logger [main] Открыли сайт Отуса
+2022-08-23 20:11:07,052 INFO h.Logger [main] Произвели авторизацю
+2022-08-23 20:11:07,111 INFO h.Logger [main] [advcake_track_id=577eede4-f722-581c-9d41-3316bb9c4732; expires=чт, 22 сент. 2022 08:11:04 MSK; path=/; domain=.otus.ru, oid=32ec696ae19ae8e6c88415d5da6d3d5d; expires=ср, 27 сент. 2023 08:11:05 MSK; path=/; domain=.otus.ru, _ym_d=1661274663; expires=ср, 23 авг. 2023 08:11:02 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, sessionid=btnzzfot33wzummgqvf0715f8stqolxl; expires=пн, 21 нояб. 2022 08:11:01 MSK; path=/; domain=otus.ru; sameSite=Lax, _tt_enable_cookie=1; expires=вс, 17 сент. 2023 08:11:04 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=вт, 23 авг. 2022 08:41:04 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _gid=GA1.2.1341038164.1661274663; expires=ср, 24 авг. 2022 08:11:03 MSK; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=ср, 27 сент. 2023 08:11:05 MSK; path=/; domain=.otus.ru, _ym_uid=16612746631022283047; expires=ср, 23 авг. 2023 08:11:02 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _gat=1; expires=вт, 23 авг. 2022 08:12:03 MSK; path=/; domain=.otus.ru, _ym_isad=2; expires=ср, 24 авг. 2022 04:11:04 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ga=GA1.2.202505771.1661274663; expires=ср, 27 сент. 2023 08:11:03 MSK; path=/; domain=.otus.ru, _ttp=7cb16f8f-25ba-4b7b-a615-ebdc4ae00244; expires=вс, 17 сент. 2023 08:11:04 MSK; path=/; domain=.otus.ru, advcake_session_id=ccacf758-4d4f-d0b5-3a14-de15ba547635; expires=чт, 22 сент. 2022 08:11:04 MSK; path=/; domain=.otus.ru]
+2022-08-23 20:11:07,112 INFO h.Logger [main] Вывели Cookie
+2022-08-23 20:11:10,843 INFO h.Logger [main] Проверили имя указанное при регистрации на главной странице сайта
+2022-08-23 20:12:17,396 INFO h.Logger [main] Открыли Chrome в режиме киоска
+2022-08-23 20:12:17,427 INFO h.Logger [main] Открыли браузер в fullscreen
+2022-08-23 20:12:20,897 INFO h.Logger [main] Перешли на сайт
+2022-08-23 20:12:21,054 INFO h.Logger [main] Кликнули по картинке
+2022-08-23 20:12:31,377 INFO h.Logger [main] Проверили что картинка открылась в модальном окне
+2022-08-23 20:12:35,220 INFO h.Logger [main] Открыли Chrome в headless режиме
+2022-08-23 20:12:35,264 INFO h.Logger [main] Открыли браузер в headless режиме
+2022-08-23 20:12:37,351 INFO h.Logger [main] Перешли в поисковую систему
+2022-08-23 20:12:40,603 INFO h.Logger [main] Ввели в поисковю строку ОТУС и кликнули по кнопке поиска 
+2022-08-23 20:12:40,739 INFO h.Logger [main] Проверка поисковой выдачи
+2022-08-23 20:12:44,540 INFO h.Logger [main] Открыли Chrome в режиме полного экрана
+2022-08-23 20:12:48,920 INFO h.Logger [main] Открыли сайт Отуса
+2022-08-23 20:12:51,173 INFO h.Logger [main] Произвели авторизацю
+2022-08-23 20:12:51,270 INFO h.Logger [main] [advcake_track_id=9f336c72-d1a9-0476-dc01-1129a61d81aa; expires=чт, 22 сент. 2022 08:12:48 MSK; path=/; domain=.otus.ru, oid=942bdc0790c880c711cd5bdce8997fd8; expires=ср, 27 сент. 2023 08:12:49 MSK; path=/; domain=.otus.ru, _ym_d=1661274766; expires=ср, 23 авг. 2023 08:12:46 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, sessionid=8j7hrrp4thr4hkd5hcfs12jxrm6ko63q; expires=пн, 21 нояб. 2022 08:12:46 MSK; path=/; domain=otus.ru; sameSite=Lax, _tt_enable_cookie=1; expires=вс, 17 сент. 2023 08:12:48 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=вт, 23 авг. 2022 08:42:48 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _gid=GA1.2.1569860722.1661274768; expires=ср, 24 авг. 2022 08:12:48 MSK; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=ср, 27 сент. 2023 08:12:49 MSK; path=/; domain=.otus.ru, _ym_uid=1661274766459770614; expires=ср, 23 авг. 2023 08:12:46 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ym_isad=2; expires=ср, 24 авг. 2022 04:12:48 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _gat=1; expires=вт, 23 авг. 2022 08:13:48 MSK; path=/; domain=.otus.ru, _ga=GA1.2.220947591.1661274768; expires=ср, 27 сент. 2023 08:12:48 MSK; path=/; domain=.otus.ru, _ttp=b1429807-b1d6-4903-b7f7-2b8e56468e98; expires=вс, 17 сент. 2023 08:12:48 MSK; path=/; domain=.otus.ru, advcake_session_id=0531b81b-188f-88a4-3674-59f1142c1cdd; expires=чт, 22 сент. 2022 08:12:48 MSK; path=/; domain=.otus.ru]
+2022-08-23 20:12:51,270 INFO h.Logger [main] Вывели Cookie
+2022-08-23 20:13:04,048 INFO h.Logger [main] Проверили имя указанное при регистрации на главной странице сайта
