@@ -46,8 +46,10 @@ public class BaseUiTest {
 
   @AfterEach
     public void setDown() {
-        if (driver != null)
+        if (driver != null){
             driver.quit();
+        }
+
     }
 }
 
