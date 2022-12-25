@@ -3,7 +3,7 @@ package helper;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-public class Autharization extends BaseUiTest {
+public class Autharization{
 
 
 
@@ -15,7 +15,7 @@ public class Autharization extends BaseUiTest {
         }
 
 
-        private By clickButton = By.className("header2__auth-reg");
+        private By clickButton = By.xpath("//button[@class ='header3__button-sign-in']");
         private By enteringMail = By.xpath("//form[@action = '/login/']//input[@name = 'email']");
         private By enteringPassword = By.xpath("//form[@action = '/login/']//input[@name = 'password']");
         private By entrance = By.xpath("//form[@action = '/login/']//button[@type ='submit']");

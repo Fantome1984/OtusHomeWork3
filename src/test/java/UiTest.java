@@ -11,6 +11,10 @@ import org.openqa.selenium.WebElement;
 
 public class UiTest extends BaseUiTest {
 
+
+
+
+
     public org.apache.logging.log4j.Logger logger = LogManager.getLogger(Logger.class);
 
     @Test
@@ -36,7 +40,7 @@ public class UiTest extends BaseUiTest {
     }
     @Test
     @Tag(value = "fullscreen")
-    public void imageSearch()  {
+    public void imageSearch() {
         logger.info("Открыли браузер в fullscreen");
 
         driver.get("https://demo.w3layouts.com/demos_new/template_demo/" +
@@ -47,15 +51,9 @@ public class UiTest extends BaseUiTest {
         driver.findElement(By.xpath("//li[@data-id='id-1']")).click();
         logger.info("Кликнули по картинке");
 
-       VisibilityСheck visibilityСheck = new VisibilityСheck(driver);
-       visibilityСheck.isVisible("//div[@class='pp_pic_holder light_rounded']");
-        WebElement actual = driver.findElement(By.xpath("//div[@class='pp_pic_holder light_rounded']"));
-        WebElement exspected = driver.findElement(By.xpath("//div[@class='pp_pic_holder light_rounded']"));
-       Assertions.assertEquals(actual,exspected);
+        Assertions.assertTrue(driver.findElement(
+                By.xpath("//*[@class='pp_pic_holder light_rounded']")).isDisplayed());
         logger.info("Проверили что картинка открылась в модальном окне");
-
-
-
 
        }
 
@@ -69,8 +67,8 @@ public class UiTest extends BaseUiTest {
         logger.info("Произвели авторизацю");
         logger.info(driver.manage().getCookies());
         logger.info("Вывели Cookie");
-        WebElement element = driver.findElement(By.xpath("//div [@class='header2-menu__item-wrapper " +
-                "header2-menu__item-wrapper__username']"));
+        WebElement element = driver.findElement(By.xpath("//div[@data-name='user-info']" +
+                "//span[@class='header3__user-info-name']"));
         String actual = element.getText();
         String exspected ="Румпель";
       Assertions.assertEquals(actual,exspected);

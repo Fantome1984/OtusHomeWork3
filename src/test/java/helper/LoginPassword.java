@@ -1,6 +1,6 @@
 package helper;
 
-public class LoginPassword {
+public class LoginPassword  extends BaseUiTest{
     public String getLogin() {
         return login;
     }
@@ -19,6 +19,5 @@ public class LoginPassword {
 
     private String login = System.getProperty("login");
     private String password=System.getProperty("password");
-
 
 }
