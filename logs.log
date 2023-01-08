@@ -586,3 +586,547 @@
 2022-12-25 15:08:27,967 INFO h.Logger [main] [advcake_track_id=debe5e00-5e88-bb2e-9792-ba5459d6efc2; expires=вт, 24 янв. 2023 03:08:23 MSK; path=/; domain=.otus.ru, oid=de19004572663d52a17e5fd0218178fb; expires=пн, 29 янв. 2024 03:08:25 MSK; path=/; domain=.otus.ru, sessionid=h8d6ybz2x9l5fmly3t15og3oa23fpack; expires=сб, 25 мар. 2023 03:08:22 MSK; path=/; domain=otus.ru;secure;; sameSite=Lax, _ym_d=1671970104; expires=пн, 25 дек. 2023 03:08:23 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _tt_enable_cookie=1; expires=пт, 19 янв. 2024 03:08:24 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=вс, 25 дек. 2022 03:38:25 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.__arc_domain=gdeslon.ru; expires=пт, 23 июн. 2023 03:08:24 MSK; path=/; domain=.otus.ru, _gid=GA1.2.1378623071.1671970104; expires=пн, 26 дек. 2022 03:08:23 MSK; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=пн, 29 янв. 2024 03:08:25 MSK; path=/; domain=.otus.ru, analytic_id=1671970105732274; expires=пн, 29 янв. 2024 03:08:25 MSK; path=/; domain=.otus.ru, _ym_uid=16719701041065789804; expires=пн, 25 дек. 2023 03:08:23 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.user_id=11dd1439-0c80-43a1-ae6c-80c1b1e775f5; expires=пт, 23 июн. 2023 03:08:24 MSK; path=/; domain=.otus.ru, _gat=1; expires=вс, 25 дек. 2022 03:09:23 MSK; path=/; domain=.otus.ru, _ym_isad=2; expires=пн, 26 дек. 2022 11:08:24 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ga=GA1.2.1701365899.1671970104; expires=пн, 29 янв. 2024 03:08:23 MSK; path=/; domain=.otus.ru, _ttp=XHIwAEOT9Pcxo9SZZrJJJjwpIIQ; expires=пт, 19 янв. 2024 03:08:24 MSK; path=/; domain=.otus.ru, advcake_session_id=a76ff6d3-2979-e2a4-e8ed-32e620e2709b; expires=вт, 24 янв. 2023 03:08:23 MSK; path=/; domain=.otus.ru]
 2022-12-25 15:08:27,970 INFO h.Logger [main] Вывели Cookie
 2022-12-25 15:08:31,193 INFO h.Logger [main] Проверили имя указанное при регистрации на главной странице сайта
+2023-01-04 12:41:09,626 INFO h.Logger [main] Открыли Chrome в режиме киоска
+2023-01-04 12:41:09,656 INFO h.Logger [main] Открыли браузер в fullscreen
+2023-01-04 12:41:12,108 INFO h.Logger [main] Перешли на сайт
+2023-01-04 12:41:12,295 INFO h.Logger [main] Кликнули по картинке
+2023-01-04 12:41:12,469 INFO h.Logger [main] Проверили что картинка открылась в модальном окне
+2023-01-04 12:41:15,853 INFO h.Logger [main] Открыли Chrome в headless режиме
+2023-01-04 12:41:15,901 INFO h.Logger [main] Открыли браузер в headless режиме
+2023-01-04 12:41:17,566 INFO h.Logger [main] Перешли в поисковую систему
+2023-01-04 12:41:20,027 INFO h.Logger [main] Ввели в поисковю строку ОТУС и кликнули по кнопке поиска 
+2023-01-04 12:41:20,229 INFO h.Logger [main] Проверка поисковой выдачи
+2023-01-04 12:41:23,687 INFO h.Logger [main] Открыли Chrome в режиме полного экрана
+2023-01-04 12:41:29,088 INFO h.Logger [main] Открыли сайт Отуса
+2023-01-04 12:41:31,169 INFO h.Logger [main] Произвели авторизацю
+2023-01-04 12:41:31,262 INFO h.Logger [main] [advcake_track_id=12104664-6cae-015c-d123-eb8d618bff17; expires=пт, 03 февр. 2023 12:41:25 MSK; path=/; domain=.otus.ru, sessionid=ghp2l5dwwxm1igspl4qyz22tjs37qjnl; expires=вт, 04 апр. 2023 12:41:25 MSK; path=/; domain=otus.ru;secure;; sameSite=Lax, oid=f7981193bfb2d1a436010a3058f5d375; expires=чт, 08 февр. 2024 12:41:29 MSK; path=/; domain=.otus.ru, _ym_d=1672825286; expires=чт, 04 янв. 2024 12:41:25 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _tt_enable_cookie=1; expires=пн, 29 янв. 2024 12:41:27 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=ср, 04 янв. 2023 01:11:28 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.__arc_domain=gdeslon.ru; expires=пн, 03 июл. 2023 12:41:27 MSK; path=/; domain=.otus.ru, _gid=GA1.2.614892334.1672825286; expires=чт, 05 янв. 2023 12:41:25 MSK; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=чт, 08 февр. 2024 12:41:29 MSK; path=/; domain=.otus.ru, analytic_id=1672825289846099; expires=чт, 08 февр. 2024 12:41:29 MSK; path=/; domain=.otus.ru, _ym_uid=1672825286162632562; expires=чт, 04 янв. 2024 12:41:25 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.user_id=545d5bd2-882c-495a-8a46-39c1f1d60a39; expires=пн, 03 июл. 2023 12:41:27 MSK; path=/; domain=.otus.ru, _gat=1; expires=ср, 04 янв. 2023 12:42:25 MSK; path=/; domain=.otus.ru, _ym_isad=2; expires=чт, 05 янв. 2023 08:41:27 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ga=GA1.2.905473619.1672825286; expires=чт, 08 февр. 2024 12:41:25 MSK; path=/; domain=.otus.ru, _ttp=eVBIqHVrp1WQrVnaZ5-hCMxpI-k; expires=пн, 29 янв. 2024 12:41:27 MSK; path=/; domain=.otus.ru, advcake_session_id=6c14c7b9-6d56-94a4-09ae-3e0be88d2f03; expires=пт, 03 февр. 2023 12:41:25 MSK; path=/; domain=.otus.ru]
+2023-01-04 12:41:31,264 INFO h.Logger [main] Вывели Cookie
+2023-01-04 12:41:35,349 INFO h.Logger [main] Проверили имя указанное при регистрации на главной странице сайта
+2023-01-04 12:42:51,951 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ headless СЂРµР¶РёРјРµ
+2023-01-04 12:42:51,994 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Р±СЂР°СѓР·РµСЂ РІ headless СЂРµР¶РёРјРµ
+2023-01-04 12:42:53,456 INFO h.Logger [main] РџРµСЂРµС€Р»Рё РІ РїРѕРёСЃРєРѕРІСѓСЋ СЃРёСЃС‚РµРјСѓ
+2023-01-04 12:42:54,563 INFO h.Logger [main] Р’РІРµР»Рё РІ РїРѕРёСЃРєРѕРІСЋ СЃС‚СЂРѕРєСѓ РћРўРЈРЎ Рё РєР»РёРєРЅСѓР»Рё РїРѕ РєРЅРѕРїРєРµ РїРѕРёСЃРєР° 
+2023-01-04 12:43:58,176 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ СЂРµР¶РёРјРµ РєРёРѕСЃРєР°
+2023-01-04 12:43:58,200 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Р±СЂР°СѓР·РµСЂ РІ fullscreen
+2023-01-04 12:43:59,612 INFO h.Logger [main] РџРµСЂРµС€Р»Рё РЅР° СЃР°Р№С‚
+2023-01-04 12:43:59,796 INFO h.Logger [main] РљР»РёРєРЅСѓР»Рё РїРѕ РєР°СЂС‚РёРЅРєРµ
+2023-01-04 12:43:59,941 INFO h.Logger [main] РџСЂРѕРІРµСЂРёР»Рё С‡С‚Рѕ РєР°СЂС‚РёРЅРєР° РѕС‚РєСЂС‹Р»Р°СЃСЊ РІ РјРѕРґР°Р»СЊРЅРѕРј РѕРєРЅРµ
+2023-01-04 12:44:18,705 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ СЂРµР¶РёРјРµ РїРѕР»РЅРѕРіРѕ СЌРєСЂР°РЅР°
+2023-01-04 12:44:21,670 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё СЃР°Р№С‚ РћС‚СѓСЃР°
+2023-01-04 12:46:23,185 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ headless СЂРµР¶РёРјРµ
+2023-01-04 12:46:23,215 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Р±СЂР°СѓР·РµСЂ РІ headless СЂРµР¶РёРјРµ
+2023-01-04 12:46:24,482 INFO h.Logger [main] РџРµСЂРµС€Р»Рё РІ РїРѕРёСЃРєРѕРІСѓСЋ СЃРёСЃС‚РµРјСѓ
+2023-01-04 12:46:24,980 INFO h.Logger [main] Р’РІРµР»Рё РІ РїРѕРёСЃРєРѕРІСЋ СЃС‚СЂРѕРєСѓ РћРўРЈРЎ Рё РєР»РёРєРЅСѓР»Рё РїРѕ РєРЅРѕРїРєРµ РїРѕРёСЃРєР° 
+2023-01-04 12:58:48,170 INFO h.Logger [main] Открыли Chrome в режиме киоска
+2023-01-04 12:58:48,233 INFO h.Logger [main] Открыли браузер в fullscreen
+2023-01-04 12:58:49,593 INFO h.Logger [main] Перешли на сайт
+2023-01-04 12:58:49,748 INFO h.Logger [main] Кликнули по картинке
+2023-01-04 12:58:49,883 INFO h.Logger [main] Проверили что картинка открылась в модальном окне
+2023-01-04 12:58:52,012 INFO h.Logger [main] Открыли Chrome в headless режиме
+2023-01-04 12:58:52,036 INFO h.Logger [main] Открыли браузер в headless режиме
+2023-01-04 12:58:54,940 INFO h.Logger [main] Перешли в поисковую систему
+2023-01-04 12:58:56,834 INFO h.Logger [main] Ввели в поисковю строку ОТУС и кликнули по кнопке поиска 
+2023-01-04 12:59:09,223 INFO h.Logger [main] Открыли Chrome в режиме полного экрана
+2023-01-04 12:59:12,846 INFO h.Logger [main] Открыли сайт Отуса
+2023-01-04 12:59:14,155 INFO h.Logger [main] Произвели авторизацю
+2023-01-04 12:59:14,212 INFO h.Logger [main] [advcake_track_id=4c3c3bcd-b147-3184-d2da-a1c77e3888a4; expires=пт, 03 февр. 2023 12:59:11 MSK; path=/; domain=.otus.ru, sessionid=0ci045cnwt7d89uyekzykm6gd1pjbsbl; expires=вт, 04 апр. 2023 12:59:10 MSK; path=/; domain=otus.ru;secure;; sameSite=Lax, oid=44afa416efce493892e75d8f9228da2f; expires=чт, 08 февр. 2024 12:59:13 MSK; path=/; domain=.otus.ru, _ym_d=1672826351; expires=чт, 04 янв. 2024 12:59:11 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _tt_enable_cookie=1; expires=пн, 29 янв. 2024 12:59:12 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=ср, 04 янв. 2023 01:29:12 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.__arc_domain=gdeslon.ru; expires=пн, 03 июл. 2023 12:59:12 MSK; path=/; domain=.otus.ru, _gid=GA1.2.1774586264.1672826351; expires=чт, 05 янв. 2023 12:59:10 MSK; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=чт, 08 февр. 2024 12:59:13 MSK; path=/; domain=.otus.ru, analytic_id=1672826353555082; expires=чт, 08 февр. 2024 12:59:13 MSK; path=/; domain=.otus.ru, _ym_uid=1672826351435156541; expires=чт, 04 янв. 2024 12:59:11 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.user_id=22b99d24-c453-41fa-aa8a-b7729a1c9e68; expires=пн, 03 июл. 2023 12:59:12 MSK; path=/; domain=.otus.ru, _gat=1; expires=ср, 04 янв. 2023 01:00:10 MSK; path=/; domain=.otus.ru, _ym_isad=2; expires=чт, 05 янв. 2023 08:59:12 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ga=GA1.2.1520674221.1672826351; expires=чт, 08 февр. 2024 12:59:10 MSK; path=/; domain=.otus.ru, _ttp=vKEz2GTQ6nc_5EEVZV9pqaqN5OR; expires=пн, 29 янв. 2024 12:59:12 MSK; path=/; domain=.otus.ru, advcake_session_id=ca631a8b-d1fc-f06b-2d28-8b0125829db1; expires=пт, 03 февр. 2023 12:59:11 MSK; path=/; domain=.otus.ru]
+2023-01-04 12:59:14,215 INFO h.Logger [main] Вывели Cookie
+2023-01-04 12:59:17,287 INFO h.Logger [main] Проверили имя указанное при регистрации на главной странице сайта
+2023-01-04 13:19:03,116 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ headless СЂРµР¶РёРјРµ
+2023-01-04 13:19:03,165 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Р±СЂР°СѓР·РµСЂ РІ headless СЂРµР¶РёРјРµ
+2023-01-04 13:19:05,015 INFO h.Logger [main] РџРµСЂРµС€Р»Рё РІ РїРѕРёСЃРєРѕРІСѓСЋ СЃРёСЃС‚РµРјСѓ
+2023-01-04 13:19:07,606 INFO h.Logger [main] Р’РІРµР»Рё РІ РїРѕРёСЃРєРѕРІСЋ СЃС‚СЂРѕРєСѓ РћРўРЈРЎ Рё РєР»РёРєРЅСѓР»Рё РїРѕ РєРЅРѕРїРєРµ РїРѕРёСЃРєР° 
+2023-01-04 13:19:08,124 INFO h.Logger [main] РџСЂРѕРІРµСЂРєР° РїРѕРёСЃРєРѕРІРѕР№ РІС‹РґР°С‡Рё
+2023-01-04 13:23:55,064 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ headless СЂРµР¶РёРјРµ
+2023-01-04 13:23:55,108 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Р±СЂР°СѓР·РµСЂ РІ headless СЂРµР¶РёРјРµ
+2023-01-04 13:23:59,054 INFO h.Logger [main] РџРµСЂРµС€Р»Рё РІ РїРѕРёСЃРєРѕРІСѓСЋ СЃРёСЃС‚РµРјСѓ
+2023-01-04 13:24:02,658 INFO h.Logger [main] Р’РІРµР»Рё РІ РїРѕРёСЃРєРѕРІСЋ СЃС‚СЂРѕРєСѓ РћРўРЈРЎ Рё РєР»РёРєРЅСѓР»Рё РїРѕ РєРЅРѕРїРєРµ РїРѕРёСЃРєР° 
+2023-01-04 13:24:02,993 INFO h.Logger [main] РџСЂРѕРІРµСЂРєР° РїРѕРёСЃРєРѕРІРѕР№ РІС‹РґР°С‡Рё
+2023-01-04 13:24:38,094 INFO h.Logger [main] Открыли Chrome в режиме киоска
+2023-01-04 13:24:38,135 INFO h.Logger [main] Открыли браузер в fullscreen
+2023-01-04 13:24:39,951 INFO h.Logger [main] Перешли на сайт
+2023-01-04 13:24:40,104 INFO h.Logger [main] Кликнули по картинке
+2023-01-04 13:24:40,294 INFO h.Logger [main] Проверили что картинка открылась в модальном окне
+2023-01-04 13:24:44,089 INFO h.Logger [main] Открыли Chrome в headless режиме
+2023-01-04 13:24:44,133 INFO h.Logger [main] Открыли браузер в headless режиме
+2023-01-04 13:24:48,138 INFO h.Logger [main] Перешли в поисковую систему
+2023-01-04 13:24:53,035 INFO h.Logger [main] Ввели в поисковю строку ОТУС и кликнули по кнопке поиска 
+2023-01-04 13:24:53,345 INFO h.Logger [main] Проверка поисковой выдачи
+2023-01-04 13:24:57,792 INFO h.Logger [main] Открыли Chrome в режиме полного экрана
+2023-01-04 13:25:01,806 INFO h.Logger [main] Открыли сайт Отуса
+2023-01-04 13:25:04,417 INFO h.Logger [main] Произвели авторизацю
+2023-01-04 13:25:04,566 INFO h.Logger [main] [advcake_track_id=c7ef3de2-dbc7-2e4d-d18c-8c4f01bacb1a; expires=пт, 03 февр. 2023 01:25:00 MSK; path=/; domain=.otus.ru, oid=0c0398c7ff88176bca08b8e07cbd9706; expires=чт, 08 февр. 2024 01:25:02 MSK; path=/; domain=.otus.ru, sessionid=4labnrie3eev0mfz2lqguodsque9l5wo; expires=вт, 04 апр. 2023 01:24:58 MSK; path=/; domain=otus.ru;secure;; sameSite=Lax, _ym_d=1672827900; expires=чт, 04 янв. 2024 01:25:00 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _tt_enable_cookie=1; expires=пн, 29 янв. 2024 01:25:01 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=ср, 04 янв. 2023 01:55:02 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.__arc_domain=gdeslon.ru; expires=пн, 03 июл. 2023 01:25:01 MSK; path=/; domain=.otus.ru, _gid=GA1.2.481247927.1672827901; expires=чт, 05 янв. 2023 01:25:00 MSK; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=чт, 08 февр. 2024 01:25:02 MSK; path=/; domain=.otus.ru, analytic_id=1672827902652446; expires=чт, 08 февр. 2024 01:25:02 MSK; path=/; domain=.otus.ru, _ym_uid=1672827900114014887; expires=чт, 04 янв. 2024 01:25:00 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.user_id=1eb5c57a-aac4-48f7-af99-8ef6294fc82a; expires=пн, 03 июл. 2023 01:25:01 MSK; path=/; domain=.otus.ru, _gat=1; expires=ср, 04 янв. 2023 01:26:00 MSK; path=/; domain=.otus.ru, _ym_isad=2; expires=чт, 05 янв. 2023 09:25:01 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ga=GA1.2.569902448.1672827901; expires=чт, 08 февр. 2024 01:25:00 MSK; path=/; domain=.otus.ru, _ttp=D43iH9y7B_BG4LW_ZcCIn3V1I3V; expires=пн, 29 янв. 2024 01:25:01 MSK; path=/; domain=.otus.ru, advcake_session_id=47448d36-b207-b7db-aec1-4f7f6ce2e166; expires=пт, 03 февр. 2023 01:25:00 MSK; path=/; domain=.otus.ru]
+2023-01-04 13:25:04,570 INFO h.Logger [main] Вывели Cookie
+2023-01-04 13:25:23,295 INFO h.Logger [main] Проверили имя указанное при регистрации на главной странице сайта
+2023-01-04 13:59:44,852 INFO h.Logger [main] Открыли Chrome в режиме киоска
+2023-01-04 13:59:44,904 INFO h.Logger [main] Открыли браузер в fullscreen
+2023-01-04 13:59:47,185 INFO h.Logger [main] Перешли на сайт
+2023-01-04 13:59:47,476 INFO h.Logger [main] Кликнули по картинке
+2023-01-04 13:59:47,678 INFO h.Logger [main] Проверили что картинка открылась в модальном окне
+2023-01-04 13:59:51,275 INFO h.Logger [main] Открыли Chrome в headless режиме
+2023-01-04 13:59:51,287 INFO h.Logger [main] Открыли браузер в headless режиме
+2023-01-04 13:59:58,236 INFO h.Logger [main] Перешли в поисковую систему
+2023-01-04 14:00:03,656 INFO h.Logger [main] Ввели в поисковю строку ОТУС и кликнули по кнопке поиска 
+2023-01-04 14:00:04,090 INFO h.Logger [main] Проверка поисковой выдачи
+2023-01-04 14:00:08,513 INFO h.Logger [main] Открыли Chrome в режиме полного экрана
+2023-01-04 14:00:12,943 INFO h.Logger [main] Открыли сайт Отуса
+2023-01-04 14:00:15,985 INFO h.Logger [main] Произвели авторизацю
+2023-01-04 14:00:16,060 INFO h.Logger [main] [advcake_track_id=d71ac012-1e5e-0fd3-0bd9-3b5603d9b0c0; expires=пт, 03 февр. 2023 02:00:10 MSK; path=/; domain=.otus.ru, oid=4f0fed1515f0511b930aeeac40a3951d; expires=чт, 08 февр. 2024 02:00:13 MSK; path=/; domain=.otus.ru, sessionid=a7k27t7wqfohalxq3unq5zfl54jpj2k0; expires=вт, 04 апр. 2023 02:00:09 MSK; path=/; domain=otus.ru;secure;; sameSite=Lax, _ym_d=1672830011; expires=чт, 04 янв. 2024 02:00:10 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _tt_enable_cookie=1; expires=пн, 29 янв. 2024 02:00:12 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=ср, 04 янв. 2023 02:30:13 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _gid=GA1.2.275028653.1672830010; expires=чт, 05 янв. 2023 02:00:10 MSK; path=/; domain=.otus.ru, gdeslon.ru.__arc_domain=gdeslon.ru; expires=пн, 03 июл. 2023 02:00:12 MSK; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=чт, 08 февр. 2024 02:00:13 MSK; path=/; domain=.otus.ru, analytic_id=1672830013453026; expires=чт, 08 февр. 2024 02:00:13 MSK; path=/; domain=.otus.ru, _ym_uid=1672830011873520314; expires=чт, 04 янв. 2024 02:00:10 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.user_id=37f27b24-95d2-4373-9f4f-2308fdff7ab5; expires=пн, 03 июл. 2023 02:00:12 MSK; path=/; domain=.otus.ru, _gat=1; expires=ср, 04 янв. 2023 02:01:10 MSK; path=/; domain=.otus.ru, _ym_isad=2; expires=чт, 05 янв. 2023 10:00:12 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ga=GA1.2.997598510.1672830010; expires=чт, 08 февр. 2024 02:00:10 MSK; path=/; domain=.otus.ru, _ttp=ZvyOeU9xosqioE-39pLBbIrUq6x; expires=пн, 29 янв. 2024 02:00:12 MSK; path=/; domain=.otus.ru, advcake_session_id=2da46269-4815-9afc-e651-bbd1b6f1e01f; expires=пт, 03 февр. 2023 02:00:10 MSK; path=/; domain=.otus.ru]
+2023-01-04 14:00:16,060 INFO h.Logger [main] Вывели Cookie
+2023-01-04 14:00:20,553 INFO h.Logger [main] Проверили имя указанное при регистрации на главной странице сайта
+2023-01-04 14:08:13,267 INFO h.Logger [main] Открыли Chrome в режиме киоска
+2023-01-04 14:08:13,311 INFO h.Logger [main] Открыли браузер в fullscreen
+2023-01-04 14:08:15,217 INFO h.Logger [main] Перешли на сайт
+2023-01-04 14:08:15,452 INFO h.Logger [main] Кликнули по картинке
+2023-01-04 14:08:15,649 INFO h.Logger [main] Проверили что картинка открылась в модальном окне
+2023-01-04 14:08:18,989 INFO h.Logger [main] Открыли Chrome в headless режиме
+2023-01-04 14:08:19,034 INFO h.Logger [main] Открыли браузер в headless режиме
+2023-01-04 14:08:20,660 INFO h.Logger [main] Перешли в поисковую систему
+2023-01-04 14:08:23,832 INFO h.Logger [main] Ввели в поисковю строку ОТУС и кликнули по кнопке поиска 
+2023-01-04 14:08:24,048 INFO h.Logger [main] Проверка поисковой выдачи
+2023-01-04 14:08:28,270 INFO h.Logger [main] Открыли Chrome в режиме полного экрана
+2023-01-04 14:08:32,200 INFO h.Logger [main] Открыли сайт Отуса
+2023-01-04 14:10:00,146 INFO h.Logger [main] Открыли Chrome в режиме киоска
+2023-01-04 14:10:00,181 INFO h.Logger [main] Открыли браузер в fullscreen
+2023-01-04 14:10:01,800 INFO h.Logger [main] Перешли на сайт
+2023-01-04 14:10:02,023 INFO h.Logger [main] Кликнули по картинке
+2023-01-04 14:10:02,213 INFO h.Logger [main] Проверили что картинка открылась в модальном окне
+2023-01-04 14:10:05,818 INFO h.Logger [main] Открыли Chrome в headless режиме
+2023-01-04 14:10:05,842 INFO h.Logger [main] Открыли браузер в headless режиме
+2023-01-04 14:10:07,602 INFO h.Logger [main] Перешли в поисковую систему
+2023-01-04 14:10:09,772 INFO h.Logger [main] Ввели в поисковю строку ОТУС и кликнули по кнопке поиска 
+2023-01-04 14:10:09,932 INFO h.Logger [main] Проверка поисковой выдачи
+2023-01-04 14:10:14,300 INFO h.Logger [main] Открыли Chrome в режиме полного экрана
+2023-01-04 14:10:38,845 INFO h.Logger [main] Открыли сайт Отуса
+2023-01-04 14:10:41,227 INFO h.Logger [main] Произвели авторизацю
+2023-01-04 14:10:41,353 INFO h.Logger [main] [advcake_track_id=648646e0-e0b4-82cd-ae5c-97e157e7ebb1; expires=пт, 03 февр. 2023 02:10:16 MSK; path=/; domain=.otus.ru, oid=a51f64b7d35e3e080d7a3147daf412bc; expires=чт, 08 февр. 2024 02:10:39 MSK; path=/; domain=.otus.ru, sessionid=kcl2txit5j28uxwgptsl2azssg4lj8nf; expires=вт, 04 апр. 2023 02:10:15 MSK; path=/; domain=otus.ru;secure;; sameSite=Lax, _ym_d=1672830617; expires=чт, 04 янв. 2024 02:10:16 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _tt_enable_cookie=1; expires=пн, 29 янв. 2024 02:10:38 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=ср, 04 янв. 2023 02:40:18 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _gid=GA1.2.1937967774.1672830617; expires=чт, 05 янв. 2023 02:10:16 MSK; path=/; domain=.otus.ru, gdeslon.ru.__arc_domain=gdeslon.ru; expires=пн, 03 июл. 2023 02:10:18 MSK; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=чт, 08 февр. 2024 02:10:39 MSK; path=/; domain=.otus.ru, analytic_id=1672830639445971; expires=чт, 08 февр. 2024 02:10:39 MSK; path=/; domain=.otus.ru, _ym_uid=1672830617811885976; expires=чт, 04 янв. 2024 02:10:16 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.user_id=f358e8cc-bac6-482c-a25f-fe9742f48ceb; expires=пн, 03 июл. 2023 02:10:18 MSK; path=/; domain=.otus.ru, _gat=1; expires=ср, 04 янв. 2023 02:11:16 MSK; path=/; domain=.otus.ru, _ym_isad=2; expires=чт, 05 янв. 2023 10:10:18 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ga=GA1.2.730795128.1672830617; expires=чт, 08 февр. 2024 02:10:16 MSK; path=/; domain=.otus.ru, _ttp=mYlp1D-2tBSVg0LLTVQu3rYDzRj; expires=пн, 29 янв. 2024 02:10:38 MSK; path=/; domain=.otus.ru, advcake_session_id=677a9df6-4ebc-74d4-bc85-c7044ed81629; expires=пт, 03 февр. 2023 02:10:16 MSK; path=/; domain=.otus.ru]
+2023-01-04 14:10:41,357 INFO h.Logger [main] Вывели Cookie
+2023-01-04 14:10:45,045 INFO h.Logger [main] Проверили имя указанное при регистрации на главной странице сайта
+2023-01-04 14:18:12,769 INFO h.Logger [main] Открыли Chrome в режиме киоска
+2023-01-04 14:18:12,801 INFO h.Logger [main] Открыли браузер в fullscreen
+2023-01-04 14:18:14,539 INFO h.Logger [main] Перешли на сайт
+2023-01-04 14:18:14,880 INFO h.Logger [main] Кликнули по картинке
+2023-01-04 14:18:15,087 INFO h.Logger [main] Проверили что картинка открылась в модальном окне
+2023-01-04 14:18:18,426 INFO h.Logger [main] Открыли Chrome в headless режиме
+2023-01-04 14:18:18,446 INFO h.Logger [main] Открыли браузер в headless режиме
+2023-01-04 14:18:22,331 INFO h.Logger [main] Перешли в поисковую систему
+2023-01-04 14:18:25,912 INFO h.Logger [main] Ввели в поисковю строку ОТУС и кликнули по кнопке поиска 
+2023-01-04 14:18:26,080 INFO h.Logger [main] Проверка поисковой выдачи
+2023-01-04 14:18:30,422 INFO h.Logger [main] Открыли Chrome в режиме полного экрана
+2023-01-04 14:18:41,058 INFO h.Logger [main] Открыли сайт Отуса
+2023-01-04 14:18:43,280 INFO h.Logger [main] Произвели авторизацю
+2023-01-04 14:18:43,400 INFO h.Logger [main] [advcake_track_id=8192fd2c-1f8d-8411-cbe4-06ea65444aa9; expires=пт, 03 февр. 2023 02:18:34 MSK; path=/; domain=.otus.ru, sessionid=7to5gfindvx6jjmovrqhxshe336wyr5k; expires=вт, 04 апр. 2023 02:18:31 MSK; path=/; domain=otus.ru;secure;; sameSite=Lax, oid=1171ac0e36fe7412feb6d89422d3bea9; expires=чт, 08 февр. 2024 02:18:41 MSK; path=/; domain=.otus.ru, _ym_d=1672831113; expires=чт, 04 янв. 2024 02:18:32 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _tt_enable_cookie=1; expires=пн, 29 янв. 2024 02:18:35 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=ср, 04 янв. 2023 02:48:34 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.__arc_domain=gdeslon.ru; expires=пн, 03 июл. 2023 02:18:35 MSK; path=/; domain=.otus.ru, _gid=GA1.2.1162289981.1672831112; expires=чт, 05 янв. 2023 02:18:32 MSK; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=чт, 08 февр. 2024 02:18:41 MSK; path=/; domain=.otus.ru, analytic_id=1672831122287642; expires=чт, 08 февр. 2024 02:18:42 MSK; path=/; domain=.otus.ru, _ym_uid=16728311131000534775; expires=чт, 04 янв. 2024 02:18:32 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.user_id=4d5abe76-a9d7-42ef-b0ac-93257cfafccd; expires=пн, 03 июл. 2023 02:18:35 MSK; path=/; domain=.otus.ru, _gat=1; expires=ср, 04 янв. 2023 02:19:32 MSK; path=/; domain=.otus.ru, _ym_isad=2; expires=чт, 05 янв. 2023 10:18:38 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ga=GA1.2.1413059729.1672831112; expires=чт, 08 февр. 2024 02:18:32 MSK; path=/; domain=.otus.ru, _ttp=m5NAUCRKupq41-nzkJKDuyknF8y; expires=пн, 29 янв. 2024 02:18:35 MSK; path=/; domain=.otus.ru, advcake_session_id=7218d586-d9ef-5e55-d159-3cc25c22346c; expires=пт, 03 февр. 2023 02:18:34 MSK; path=/; domain=.otus.ru]
+2023-01-04 14:18:43,406 INFO h.Logger [main] Вывели Cookie
+2023-01-04 14:18:47,950 INFO h.Logger [main] Проверили имя указанное при регистрации на главной странице сайта
+2023-01-04 14:22:59,202 INFO h.Logger [main] Открыли Chrome в режиме киоска
+2023-01-04 14:22:59,250 INFO h.Logger [main] Открыли браузер в fullscreen
+2023-01-04 14:23:01,144 INFO h.Logger [main] Перешли на сайт
+2023-01-04 14:23:01,353 INFO h.Logger [main] Кликнули по картинке
+2023-01-04 14:23:01,512 INFO h.Logger [main] Проверили что картинка открылась в модальном окне
+2023-01-04 14:23:04,951 INFO h.Logger [main] Открыли Chrome в headless режиме
+2023-01-04 14:23:05,008 INFO h.Logger [main] Открыли браузер в headless режиме
+2023-01-04 14:23:09,026 INFO h.Logger [main] Перешли в поисковую систему
+2023-01-04 14:23:13,413 INFO h.Logger [main] Ввели в поисковю строку ОТУС и кликнули по кнопке поиска 
+2023-01-04 14:23:13,847 INFO h.Logger [main] Проверка поисковой выдачи
+2023-01-04 14:23:18,308 INFO h.Logger [main] Открыли Chrome в режиме полного экрана
+2023-01-04 14:23:21,719 INFO h.Logger [main] Открыли сайт Отуса
+2023-01-04 14:23:24,514 INFO h.Logger [main] Произвели авторизацю
+2023-01-04 14:23:24,629 INFO h.Logger [main] [advcake_track_id=2741828c-948b-d787-9915-0019f9f3b049; expires=пт, 03 февр. 2023 02:23:20 MSK; path=/; domain=.otus.ru, oid=182d955715899a74c8e86d1d379865cb; expires=чт, 08 февр. 2024 02:23:22 MSK; path=/; domain=.otus.ru, sessionid=b8mmr88fd4tthl7a4v2wf7pbuic3o2ov; expires=вт, 04 апр. 2023 02:23:19 MSK; path=/; domain=otus.ru;secure;; sameSite=Lax, _ym_d=1672831400; expires=чт, 04 янв. 2024 02:23:20 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _tt_enable_cookie=1; expires=пн, 29 янв. 2024 02:23:21 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=ср, 04 янв. 2023 02:53:22 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _gid=GA1.2.110508195.1672831401; expires=чт, 05 янв. 2023 02:23:20 MSK; path=/; domain=.otus.ru, gdeslon.ru.__arc_domain=gdeslon.ru; expires=пн, 03 июл. 2023 02:23:21 MSK; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=чт, 08 февр. 2024 02:23:22 MSK; path=/; domain=.otus.ru, analytic_id=1672831402451535; expires=чт, 08 февр. 2024 02:23:22 MSK; path=/; domain=.otus.ru, _ym_uid=16728314001033692803; expires=чт, 04 янв. 2024 02:23:20 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.user_id=e5d0fdd1-1f87-4af5-a017-37cc4bfebb0d; expires=пн, 03 июл. 2023 02:23:21 MSK; path=/; domain=.otus.ru, _gat=1; expires=ср, 04 янв. 2023 02:24:20 MSK; path=/; domain=.otus.ru, _ym_isad=2; expires=чт, 05 янв. 2023 10:23:21 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ga=GA1.2.584532135.1672831401; expires=чт, 08 февр. 2024 02:23:20 MSK; path=/; domain=.otus.ru, _ttp=AaTQCLfuYDXieMjP4UHTR24VdHF; expires=пн, 29 янв. 2024 02:23:21 MSK; path=/; domain=.otus.ru, advcake_session_id=b592fcdd-ced3-f74b-5273-a1caa210d178; expires=пт, 03 февр. 2023 02:23:20 MSK; path=/; domain=.otus.ru]
+2023-01-04 14:23:24,636 INFO h.Logger [main] Вывели Cookie
+2023-01-04 14:23:28,099 INFO h.Logger [main] Проверили имя указанное при регистрации на главной странице сайта
+2023-01-04 14:43:04,396 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ СЂРµР¶РёРјРµ РєРёРѕСЃРєР°
+2023-01-04 14:43:04,422 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Р±СЂР°СѓР·РµСЂ РІ fullscreen
+2023-01-04 14:43:06,126 INFO h.Logger [main] РџРµСЂРµС€Р»Рё РЅР° СЃР°Р№С‚
+2023-01-04 14:43:06,420 INFO h.Logger [main] РљР»РёРєРЅСѓР»Рё РїРѕ РєР°СЂС‚РёРЅРєРµ
+2023-01-04 14:44:44,155 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ СЂРµР¶РёРјРµ РєРёРѕСЃРєР°
+2023-01-04 14:44:44,197 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Р±СЂР°СѓР·РµСЂ РІ fullscreen
+2023-01-04 14:44:45,600 INFO h.Logger [main] РџРµСЂРµС€Р»Рё РЅР° СЃР°Р№С‚
+2023-01-04 14:44:45,950 INFO h.Logger [main] РљР»РёРєРЅСѓР»Рё РїРѕ РєР°СЂС‚РёРЅРєРµ
+2023-01-04 14:45:45,035 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ СЂРµР¶РёРјРµ РєРёРѕСЃРєР°
+2023-01-04 14:45:45,085 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Р±СЂР°СѓР·РµСЂ РІ fullscreen
+2023-01-04 14:45:46,498 INFO h.Logger [main] РџРµСЂРµС€Р»Рё РЅР° СЃР°Р№С‚
+2023-01-04 14:45:46,754 INFO h.Logger [main] РљР»РёРєРЅСѓР»Рё РїРѕ РєР°СЂС‚РёРЅРєРµ
+2023-01-04 14:53:54,074 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ СЂРµР¶РёРјРµ РєРёРѕСЃРєР°
+2023-01-04 14:53:54,104 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Р±СЂР°СѓР·РµСЂ РІ fullscreen
+2023-01-04 14:53:56,492 INFO h.Logger [main] РџРµСЂРµС€Р»Рё РЅР° СЃР°Р№С‚
+2023-01-04 14:53:56,923 INFO h.Logger [main] РљР»РёРєРЅСѓР»Рё РїРѕ РєР°СЂС‚РёРЅРєРµ
+2023-01-05 13:22:59,159 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ СЂРµР¶РёРјРµ РєРёРѕСЃРєР°
+2023-01-05 13:22:59,197 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Р±СЂР°СѓР·РµСЂ РІ fullscreen
+2023-01-05 13:23:01,337 INFO h.Logger [main] РџРµСЂРµС€Р»Рё РЅР° СЃР°Р№С‚
+2023-01-05 13:23:01,559 INFO h.Logger [main] РљР»РёРєРЅСѓР»Рё РїРѕ РєР°СЂС‚РёРЅРєРµ
+2023-01-05 13:23:02,768 INFO h.Logger [main] РџСЂРѕРІРµСЂРёР»Рё С‡С‚Рѕ РєР°СЂС‚РёРЅРєР° РѕС‚РєСЂС‹Р»Р°СЃСЊ РІ РјРѕРґР°Р»СЊРЅРѕРј РѕРєРЅРµ
+2023-01-05 13:23:52,989 INFO h.Logger [main] Открыли Chrome в режиме киоска
+2023-01-05 13:23:53,016 INFO h.Logger [main] Открыли браузер в fullscreen
+2023-01-05 13:23:54,743 INFO h.Logger [main] Перешли на сайт
+2023-01-05 13:23:54,887 INFO h.Logger [main] Кликнули по картинке
+2023-01-05 13:23:56,084 INFO h.Logger [main] Проверили что картинка открылась в модальном окне
+2023-01-05 13:23:58,215 INFO h.Logger [main] Открыли Chrome в headless режиме
+2023-01-05 13:23:58,222 INFO h.Logger [main] Открыли браузер в headless режиме
+2023-01-05 13:23:59,489 INFO h.Logger [main] Перешли в поисковую систему
+2023-01-05 13:25:04,402 INFO h.Logger [main] Ввели в поисковю строку ОТУС и кликнули по кнопке поиска 
+2023-01-05 13:25:04,542 INFO h.Logger [main] Проверка поисковой выдачи
+2023-01-05 13:25:06,807 INFO h.Logger [main] Открыли Chrome в режиме полного экрана
+2023-01-05 13:25:15,314 INFO h.Logger [main] Открыли сайт Отуса
+2023-01-05 13:25:17,324 INFO h.Logger [main] Произвели авторизацю
+2023-01-05 13:25:17,405 INFO h.Logger [main] [advcake_track_url=https%3A%2F%2Fotus.ru%2F%3Futm_source%3Dadvcake%26utm_medium%3Dcpa%26utm_campaign%3Dotus%26utm_content%3Dcityads_52U1%26advcake_params%3D9tkZ1XOhhHZ9MgU; expires=сб, 04 февр. 2023 01:25:14 MSK; path=/; domain=.otus.ru, advcake_track_id=89102968-f23b-2641-0ef2-e0e227e7da5e; expires=сб, 04 февр. 2023 01:25:14 MSK; path=/; domain=.otus.ru, oid=bb8e9c1e65daadbef9ce69bb3e26bf2b; expires=пт, 09 февр. 2024 01:25:15 MSK; path=/; domain=.otus.ru, advcake_click_id=9tkZ1XOhhHZ9MgU; expires=сб, 04 февр. 2023 01:25:14 MSK; path=/; domain=.otus.ru, _ym_d=1672914314; expires=пт, 05 янв. 2024 01:25:14 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, sessionid=idpnd00tg4zm4e65sbe6ot5dz8avteoq; expires=ср, 05 апр. 2023 01:25:08 MSK; path=/; domain=otus.ru;secure;; sameSite=Lax, _tt_enable_cookie=1; expires=вт, 30 янв. 2024 01:25:15 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=чт, 05 янв. 2023 01:55:15 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.__arc_domain=gdeslon.ru; expires=вт, 04 июл. 2023 01:25:14 MSK; path=/; domain=.otus.ru, _gid=GA1.2.1251968295.1672914314; expires=пт, 06 янв. 2023 01:25:14 MSK; path=/; domain=.otus.ru, analytic_id=1672914316877777; expires=пт, 09 февр. 2024 01:25:16 MSK; path=/; domain=.otus.ru, advcake_utm_partner=otus; expires=сб, 04 февр. 2023 01:25:14 MSK; path=/; domain=.otus.ru, _ym_uid=1672914314919142684; expires=пт, 05 янв. 2024 01:25:14 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.user_id=8d0a97b8-aee8-4cfd-a2d6-f528573ff0a3; expires=вт, 04 июл. 2023 01:25:14 MSK; path=/; domain=.otus.ru, _ym_isad=2; expires=пт, 06 янв. 2023 09:25:14 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _gat=1; expires=чт, 05 янв. 2023 01:26:14 MSK; path=/; domain=.otus.ru, _ga=GA1.2.418370508.1672914314; expires=пт, 09 февр. 2024 01:25:14 MSK; path=/; domain=.otus.ru, _ttp=aw5tMyyp5SQVbdhMkSSgkGOTEKN; expires=вт, 30 янв. 2024 01:25:15 MSK; path=/; domain=.otus.ru, advcake_utm_webmaster=cityads_52U1; expires=сб, 04 февр. 2023 01:25:14 MSK; path=/; domain=.otus.ru, advcake_session_id=79dfceb3-d149-ef3b-9f6d-a3785144f0ec; expires=сб, 04 февр. 2023 01:25:14 MSK; path=/; domain=.otus.ru]
+2023-01-05 13:25:17,406 INFO h.Logger [main] Вывели Cookie
+2023-01-05 13:25:20,292 INFO h.Logger [main] Проверили имя указанное при регистрации на главной странице сайта
+2023-01-05 13:26:07,764 INFO h.Logger [main] Открыли Chrome в режиме киоска
+2023-01-05 13:26:07,773 INFO h.Logger [main] Открыли браузер в fullscreen
+2023-01-05 13:26:08,845 INFO h.Logger [main] Перешли на сайт
+2023-01-05 13:26:08,973 INFO h.Logger [main] Кликнули по картинке
+2023-01-05 13:26:09,712 INFO h.Logger [main] Проверили что картинка открылась в модальном окне
+2023-01-05 13:26:11,850 INFO h.Logger [main] Открыли Chrome в headless режиме
+2023-01-05 13:26:11,850 INFO h.Logger [main] Открыли браузер в headless режиме
+2023-01-05 13:26:14,800 INFO h.Logger [main] Перешли в поисковую систему
+2023-01-05 13:27:19,796 INFO h.Logger [main] Ввели в поисковю строку ОТУС и кликнули по кнопке поиска 
+2023-01-05 13:27:19,924 INFO h.Logger [main] Проверка поисковой выдачи
+2023-01-05 13:27:22,169 INFO h.Logger [main] Открыли Chrome в режиме полного экрана
+2023-01-05 13:27:24,586 INFO h.Logger [main] Открыли сайт Отуса
+2023-01-05 13:28:14,432 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ СЂРµР¶РёРјРµ РїРѕР»РЅРѕРіРѕ СЌРєСЂР°РЅР°
+2023-01-05 13:28:17,292 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё СЃР°Р№С‚ РћС‚СѓСЃР°
+2023-01-05 13:30:43,215 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ СЂРµР¶РёРјРµ РїРѕР»РЅРѕРіРѕ СЌРєСЂР°РЅР°
+2023-01-05 13:30:46,318 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё СЃР°Р№С‚ РћС‚СѓСЃР°
+2023-01-05 13:42:16,116 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ СЂРµР¶РёРјРµ РїРѕР»РЅРѕРіРѕ СЌРєСЂР°РЅР°
+2023-01-05 13:42:19,091 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё СЃР°Р№С‚ РћС‚СѓСЃР°
+2023-01-05 13:44:47,854 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ СЂРµР¶РёРјРµ РїРѕР»РЅРѕРіРѕ СЌРєСЂР°РЅР°
+2023-01-05 13:44:50,917 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё СЃР°Р№С‚ РћС‚СѓСЃР°
+2023-01-05 13:45:53,356 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ СЂРµР¶РёРјРµ РїРѕР»РЅРѕРіРѕ СЌРєСЂР°РЅР°
+2023-01-05 13:45:56,216 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё СЃР°Р№С‚ РћС‚СѓСЃР°
+2023-01-05 13:45:56,406 INFO h.Logger [main] РџСЂРѕРёР·РІРµР»Рё Р°РІС‚РѕСЂРёР·Р°С†СЋ
+2023-01-05 13:45:56,462 INFO h.Logger [main] [advcake_track_id=30d91980-e3a4-6fa1-305d-40b3e969a271; expires=СЃР±, 04 С„РµРІСЂ. 2023 01:45:54 MSK; path=/; domain=.otus.ru, oid=3802d5f484fe1dd132b9d5dd42fc95cf; expires=РїС‚, 09 С„РµРІСЂ. 2024 01:45:54 MSK; path=/; domain=.otus.ru, sessionid=wccnijtddbwg296inrjlq6wza376uscw; expires=СЃСЂ, 05 Р°РїСЂ. 2023 01:45:54 MSK; path=/; domain=otus.ru;secure;; sameSite=Lax, _ym_d=1672915554; expires=РїС‚, 05 СЏРЅРІ. 2024 01:45:54 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _tt_enable_cookie=1; expires=РІС‚, 30 СЏРЅРІ. 2024 01:45:55 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=С‡С‚, 05 СЏРЅРІ. 2023 02:15:55 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.__arc_domain=gdeslon.ru; expires=РІС‚, 04 РёСЋР». 2023 01:45:55 MSK; path=/; domain=.otus.ru, _gid=GA1.2.2112021446.1672915554; expires=РїС‚, 06 СЏРЅРІ. 2023 01:45:54 MSK; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=РїС‚, 09 С„РµРІСЂ. 2024 01:45:54 MSK; path=/; domain=.otus.ru, _ym_uid=16729155541063503353; expires=РїС‚, 05 СЏРЅРІ. 2024 01:45:54 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.user_id=2e8c54ec-db38-4fe0-b64d-763f81acf27b; expires=РІС‚, 04 РёСЋР». 2023 01:45:55 MSK; path=/; domain=.otus.ru, _gat=1; expires=С‡С‚, 05 СЏРЅРІ. 2023 01:46:54 MSK; path=/; domain=.otus.ru, _ym_isad=2; expires=РїС‚, 06 СЏРЅРІ. 2023 09:45:55 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ga=GA1.2.1470698993.1672915554; expires=РїС‚, 09 С„РµРІСЂ. 2024 01:45:54 MSK; path=/; domain=.otus.ru, _ttp=7DBM_0sBjwSLAlABWrGbHeyBrOZ; expires=РІС‚, 30 СЏРЅРІ. 2024 01:45:55 MSK; path=/; domain=.otus.ru, advcake_session_id=1d8e598d-38e6-d4f3-149d-de5dd0732ded; expires=СЃР±, 04 С„РµРІСЂ. 2023 01:45:54 MSK; path=/; domain=.otus.ru]
+2023-01-05 13:45:56,462 INFO h.Logger [main] Р’С‹РІРµР»Рё Cookie
+2023-01-05 13:49:14,708 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ СЂРµР¶РёРјРµ РїРѕР»РЅРѕРіРѕ СЌРєСЂР°РЅР°
+2023-01-05 13:49:18,022 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё СЃР°Р№С‚ РћС‚СѓСЃР°
+2023-01-05 13:49:18,161 INFO h.Logger [main] РџСЂРѕРёР·РІРµР»Рё Р°РІС‚РѕСЂРёР·Р°С†СЋ
+2023-01-05 13:49:18,206 INFO h.Logger [main] [advcake_track_id=25e2ba93-0c3b-22ea-a3b4-37063178ca32; expires=СЃР±, 04 С„РµРІСЂ. 2023 01:49:17 MSK; path=/; domain=.otus.ru, sessionid=t0u2syqf064ab4i3c8cdgq69wmf3ngii; expires=СЃСЂ, 05 Р°РїСЂ. 2023 01:49:16 MSK; path=/; domain=otus.ru;secure;; sameSite=Lax, oid=e6ab79bcf3a6ff3474018cf541e6c58d; expires=РїС‚, 09 С„РµРІСЂ. 2024 01:49:16 MSK; path=/; domain=.otus.ru, _ym_d=1672915757; expires=РїС‚, 05 СЏРЅРІ. 2024 01:49:16 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _tt_enable_cookie=1; expires=РІС‚, 30 СЏРЅРІ. 2024 01:49:17 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=С‡С‚, 05 СЏРЅРІ. 2023 02:19:17 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.__arc_domain=gdeslon.ru; expires=РІС‚, 04 РёСЋР». 2023 01:49:17 MSK; path=/; domain=.otus.ru, _gid=GA1.2.1160414347.1672915756; expires=РїС‚, 06 СЏРЅРІ. 2023 01:49:16 MSK; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=РїС‚, 09 С„РµРІСЂ. 2024 01:49:16 MSK; path=/; domain=.otus.ru, _ym_uid=1672915757387073839; expires=РїС‚, 05 СЏРЅРІ. 2024 01:49:16 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.user_id=796bb96c-f62e-40d9-b902-99b9c6d51db1; expires=РІС‚, 04 РёСЋР». 2023 01:49:17 MSK; path=/; domain=.otus.ru, _gat=1; expires=С‡С‚, 05 СЏРЅРІ. 2023 01:50:16 MSK; path=/; domain=.otus.ru, _ym_isad=2; expires=РїС‚, 06 СЏРЅРІ. 2023 09:49:17 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ga=GA1.2.2142385365.1672915756; expires=РїС‚, 09 С„РµРІСЂ. 2024 01:49:16 MSK; path=/; domain=.otus.ru, _ttp=G5cEdOdlXS1_hwx4CU5oaw2ak1T; expires=РІС‚, 30 СЏРЅРІ. 2024 01:49:17 MSK; path=/; domain=.otus.ru, advcake_session_id=8599c9d1-b72e-f728-1477-f71170528ab5; expires=СЃР±, 04 С„РµРІСЂ. 2023 01:49:17 MSK; path=/; domain=.otus.ru]
+2023-01-05 13:49:18,208 INFO h.Logger [main] Р’С‹РІРµР»Рё Cookie
+2023-01-05 13:49:46,956 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ СЂРµР¶РёРјРµ РїРѕР»РЅРѕРіРѕ СЌРєСЂР°РЅР°
+2023-01-05 13:49:50,199 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё СЃР°Р№С‚ РћС‚СѓСЃР°
+2023-01-05 13:49:50,365 INFO h.Logger [main] РџСЂРѕРёР·РІРµР»Рё Р°РІС‚РѕСЂРёР·Р°С†СЋ
+2023-01-05 13:49:50,412 INFO h.Logger [main] [advcake_track_id=400a7584-3ae2-5833-c891-65147cb9c54b; expires=СЃР±, 04 С„РµРІСЂ. 2023 01:49:48 MSK; path=/; domain=.otus.ru, oid=d51d0938092b40d1a2cc4da860de30f0; expires=РїС‚, 09 С„РµРІСЂ. 2024 01:49:50 MSK; path=/; domain=.otus.ru, sessionid=6bpjjxscc9rszkoznnsljf2e0yor61m5; expires=СЃСЂ, 05 Р°РїСЂ. 2023 01:49:48 MSK; path=/; domain=otus.ru;secure;; sameSite=Lax, _ym_d=1672915788; expires=РїС‚, 05 СЏРЅРІ. 2024 01:49:48 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _tt_enable_cookie=1; expires=РІС‚, 30 СЏРЅРІ. 2024 01:49:49 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=С‡С‚, 05 СЏРЅРІ. 2023 02:19:49 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.__arc_domain=gdeslon.ru; expires=РІС‚, 04 РёСЋР». 2023 01:49:49 MSK; path=/; domain=.otus.ru, _gid=GA1.2.567438982.1672915789; expires=РїС‚, 06 СЏРЅРІ. 2023 01:49:49 MSK; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=РїС‚, 09 С„РµРІСЂ. 2024 01:49:50 MSK; path=/; domain=.otus.ru, _ym_uid=1672915788451413874; expires=РїС‚, 05 СЏРЅРІ. 2024 01:49:48 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.user_id=498e4c53-cd85-4f83-ab28-d1eb9a422cdb; expires=РІС‚, 04 РёСЋР». 2023 01:49:49 MSK; path=/; domain=.otus.ru, _gat=1; expires=С‡С‚, 05 СЏРЅРІ. 2023 01:50:49 MSK; path=/; domain=.otus.ru, _ym_isad=2; expires=РїС‚, 06 СЏРЅРІ. 2023 09:49:49 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ga=GA1.2.585188860.1672915789; expires=РїС‚, 09 С„РµРІСЂ. 2024 01:49:49 MSK; path=/; domain=.otus.ru, _ttp=JVBzHjO-jEhRJ-asHSxs5jAWnSy; expires=РІС‚, 30 СЏРЅРІ. 2024 01:49:49 MSK; path=/; domain=.otus.ru, advcake_session_id=844e523c-afd9-546c-0c19-530d47538336; expires=СЃР±, 04 С„РµРІСЂ. 2023 01:49:48 MSK; path=/; domain=.otus.ru]
+2023-01-05 13:49:50,413 INFO h.Logger [main] Р’С‹РІРµР»Рё Cookie
+2023-01-05 13:50:51,718 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ СЂРµР¶РёРјРµ РїРѕР»РЅРѕРіРѕ СЌРєСЂР°РЅР°
+2023-01-05 13:50:55,615 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё СЃР°Р№С‚ РћС‚СѓСЃР°
+2023-01-05 13:50:55,782 INFO h.Logger [main] РџСЂРѕРёР·РІРµР»Рё Р°РІС‚РѕСЂРёР·Р°С†СЋ
+2023-01-05 13:50:55,836 INFO h.Logger [main] [advcake_track_id=4baca7e9-b35f-8b3c-8549-5a136d48a3f3; expires=СЃР±, 04 С„РµРІСЂ. 2023 01:50:53 MSK; path=/; domain=.otus.ru, sessionid=ftufptjrbd6vvb6ep7e4lm2kyu0zzz9r; expires=СЃСЂ, 05 Р°РїСЂ. 2023 01:50:52 MSK; path=/; domain=otus.ru;secure;; sameSite=Lax, oid=90a68a47246e8100d951790e1442ab85; expires=РїС‚, 09 С„РµРІСЂ. 2024 01:50:55 MSK; path=/; domain=.otus.ru, _ym_d=1672915853; expires=РїС‚, 05 СЏРЅРІ. 2024 01:50:53 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _tt_enable_cookie=1; expires=РІС‚, 30 СЏРЅРІ. 2024 01:50:54 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=С‡С‚, 05 СЏРЅРІ. 2023 02:20:54 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.__arc_domain=gdeslon.ru; expires=РІС‚, 04 РёСЋР». 2023 01:50:54 MSK; path=/; domain=.otus.ru, _gid=GA1.2.357106336.1672915853; expires=РїС‚, 06 СЏРЅРІ. 2023 01:50:53 MSK; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=РїС‚, 09 С„РµРІСЂ. 2024 01:50:55 MSK; path=/; domain=.otus.ru, _ym_uid=1672915853202942824; expires=РїС‚, 05 СЏРЅРІ. 2024 01:50:53 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.user_id=e042a8c3-de1b-48f2-89cb-3cc4340a5715; expires=РІС‚, 04 РёСЋР». 2023 01:50:54 MSK; path=/; domain=.otus.ru, _gat=1; expires=С‡С‚, 05 СЏРЅРІ. 2023 01:51:53 MSK; path=/; domain=.otus.ru, _ym_isad=2; expires=РїС‚, 06 СЏРЅРІ. 2023 09:50:54 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ga=GA1.2.744181813.1672915853; expires=РїС‚, 09 С„РµРІСЂ. 2024 01:50:53 MSK; path=/; domain=.otus.ru, _ttp=F922y8Y7TDpXRGbisohBOAIrZwR; expires=РІС‚, 30 СЏРЅРІ. 2024 01:50:54 MSK; path=/; domain=.otus.ru, advcake_session_id=22b15975-4f67-01fe-a41b-98e1c1e8c71e; expires=СЃР±, 04 С„РµРІСЂ. 2023 01:50:53 MSK; path=/; domain=.otus.ru]
+2023-01-05 13:50:55,836 INFO h.Logger [main] Р’С‹РІРµР»Рё Cookie
+2023-01-05 13:51:13,504 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ СЂРµР¶РёРјРµ РїРѕР»РЅРѕРіРѕ СЌРєСЂР°РЅР°
+2023-01-05 13:51:17,036 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё СЃР°Р№С‚ РћС‚СѓСЃР°
+2023-01-05 13:51:18,216 INFO h.Logger [main] РџСЂРѕРёР·РІРµР»Рё Р°РІС‚РѕСЂРёР·Р°С†СЋ
+2023-01-05 13:51:18,272 INFO h.Logger [main] [advcake_track_id=ff9fd1c8-883b-7df0-ebe1-c702f4ba21d7; expires=СЃР±, 04 С„РµРІСЂ. 2023 01:51:14 MSK; path=/; domain=.otus.ru, oid=3a622218bdb5d50c048a0d52afd8b3d3; expires=РїС‚, 09 С„РµРІСЂ. 2024 01:51:17 MSK; path=/; domain=.otus.ru, sessionid=hcnrjzd27nkt2d0ikde0ilo5vr797n3g; expires=СЃСЂ, 05 Р°РїСЂ. 2023 01:51:14 MSK; path=/; domain=otus.ru;secure;; sameSite=Lax, _ym_d=1672915874; expires=РїС‚, 05 СЏРЅРІ. 2024 01:51:14 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _tt_enable_cookie=1; expires=РІС‚, 30 СЏРЅРІ. 2024 01:51:15 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=С‡С‚, 05 СЏРЅРІ. 2023 02:21:15 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.__arc_domain=gdeslon.ru; expires=РІС‚, 04 РёСЋР». 2023 01:51:15 MSK; path=/; domain=.otus.ru, _gid=GA1.2.1326925371.1672915875; expires=РїС‚, 06 СЏРЅРІ. 2023 01:51:14 MSK; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=РїС‚, 09 С„РµРІСЂ. 2024 01:51:17 MSK; path=/; domain=.otus.ru, analytic_id=1672915877830866; expires=РїС‚, 09 С„РµРІСЂ. 2024 01:51:17 MSK; path=/; domain=.otus.ru, _ym_uid=1672915874142190473; expires=РїС‚, 05 СЏРЅРІ. 2024 01:51:14 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.user_id=946fbdd5-623b-4688-9368-05e777e3f171; expires=РІС‚, 04 РёСЋР». 2023 01:51:15 MSK; path=/; domain=.otus.ru, _gat=1; expires=С‡С‚, 05 СЏРЅРІ. 2023 01:52:14 MSK; path=/; domain=.otus.ru, _ym_isad=2; expires=РїС‚, 06 СЏРЅРІ. 2023 09:51:15 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ga=GA1.2.1776409025.1672915875; expires=РїС‚, 09 С„РµРІСЂ. 2024 01:51:14 MSK; path=/; domain=.otus.ru, _ttp=ujQAfGlMD_-mZm3bpZwAhEh0_Ar; expires=РІС‚, 30 СЏРЅРІ. 2024 01:51:15 MSK; path=/; domain=.otus.ru, advcake_session_id=810d22f3-946f-c8d1-5362-e9e771faefd4; expires=СЃР±, 04 С„РµРІСЂ. 2023 01:51:14 MSK; path=/; domain=.otus.ru]
+2023-01-05 13:51:18,272 INFO h.Logger [main] Р’С‹РІРµР»Рё Cookie
+2023-01-05 13:51:31,953 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ СЂРµР¶РёРјРµ РїРѕР»РЅРѕРіРѕ СЌРєСЂР°РЅР°
+2023-01-05 13:51:34,843 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё СЃР°Р№С‚ РћС‚СѓСЃР°
+2023-01-05 13:51:45,005 INFO h.Logger [main] РџСЂРѕРёР·РІРµР»Рё Р°РІС‚РѕСЂРёР·Р°С†СЋ
+2023-01-05 13:51:45,066 INFO h.Logger [main] [advcake_track_id=af7309dd-bdf8-20ea-8278-e4b627928c3f; expires=СЃР±, 04 С„РµРІСЂ. 2023 01:51:32 MSK; path=/; domain=.otus.ru, oid=22f3aeac577f23c4659e678536832352; expires=РїС‚, 09 С„РµРІСЂ. 2024 01:51:35 MSK; path=/; domain=.otus.ru, sessionid=gtjeyx1qcimbpygrfd9k1gizt5cyekra; expires=СЃСЂ, 05 Р°РїСЂ. 2023 01:51:32 MSK; path=/; domain=otus.ru;secure;; sameSite=Lax, _ym_d=1672915893; expires=РїС‚, 05 СЏРЅРІ. 2024 01:51:33 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _tt_enable_cookie=1; expires=РІС‚, 30 СЏРЅРІ. 2024 01:51:34 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=С‡С‚, 05 СЏРЅРІ. 2023 02:21:34 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.__arc_domain=gdeslon.ru; expires=РІС‚, 04 РёСЋР». 2023 01:51:34 MSK; path=/; domain=.otus.ru, _gid=GA1.2.1576815732.1672915893; expires=РїС‚, 06 СЏРЅРІ. 2023 01:51:32 MSK; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=РїС‚, 09 С„РµРІСЂ. 2024 01:51:35 MSK; path=/; domain=.otus.ru, analytic_id=1672915895653553; expires=РїС‚, 09 С„РµРІСЂ. 2024 01:51:35 MSK; path=/; domain=.otus.ru, _ym_uid=1672915893693710144; expires=РїС‚, 05 СЏРЅРІ. 2024 01:51:33 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.user_id=4526b30c-8956-4e3b-9b3b-26484b42f2e5; expires=РІС‚, 04 РёСЋР». 2023 01:51:34 MSK; path=/; domain=.otus.ru, _gat=1; expires=С‡С‚, 05 СЏРЅРІ. 2023 01:52:32 MSK; path=/; domain=.otus.ru, _ym_isad=2; expires=РїС‚, 06 СЏРЅРІ. 2023 09:51:34 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ga=GA1.2.1116339898.1672915893; expires=РїС‚, 09 С„РµРІСЂ. 2024 01:51:32 MSK; path=/; domain=.otus.ru, _ttp=q0a3vy9_nm6LC4bbuScRYG0s0MA; expires=РІС‚, 30 СЏРЅРІ. 2024 01:51:34 MSK; path=/; domain=.otus.ru, advcake_session_id=068a2602-f9a1-65cf-a5c5-9ab1606b535c; expires=СЃР±, 04 С„РµРІСЂ. 2023 01:51:32 MSK; path=/; domain=.otus.ru]
+2023-01-05 13:51:45,066 INFO h.Logger [main] Р’С‹РІРµР»Рё Cookie
+2023-01-05 13:52:34,755 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ СЂРµР¶РёРјРµ РїРѕР»РЅРѕРіРѕ СЌРєСЂР°РЅР°
+2023-01-05 13:52:37,334 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё СЃР°Р№С‚ РћС‚СѓСЃР°
+2023-01-05 13:55:42,832 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ СЂРµР¶РёРјРµ РїРѕР»РЅРѕРіРѕ СЌРєСЂР°РЅР°
+2023-01-05 13:55:47,353 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё СЃР°Р№С‚ РћС‚СѓСЃР°
+2023-01-05 13:56:14,741 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ СЂРµР¶РёРјРµ РїРѕР»РЅРѕРіРѕ СЌРєСЂР°РЅР°
+2023-01-05 13:56:17,598 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё СЃР°Р№С‚ РћС‚СѓСЃР°
+2023-01-05 13:56:45,589 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ СЂРµР¶РёРјРµ РїРѕР»РЅРѕРіРѕ СЌРєСЂР°РЅР°
+2023-01-05 13:57:08,971 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё СЃР°Р№С‚ РћС‚СѓСЃР°
+2023-01-05 13:58:20,945 INFO h.Logger [main] Открыли Chrome в режиме полного экрана
+2023-01-05 13:58:24,929 INFO h.Logger [main] Открыли сайт Отуса
+2023-01-05 13:58:26,245 INFO h.Logger [main] Произвели авторизацю
+2023-01-05 13:58:26,286 INFO h.Logger [main] [advcake_track_id=8ca92479-3bba-d914-0d20-6a62ec8e33dc; expires=сб, 04 февр. 2023 01:58:22 MSK; path=/; domain=.otus.ru, oid=2bc4af3fd3073c7b4daa771c557c3d89; expires=пт, 09 февр. 2024 01:58:25 MSK; path=/; domain=.otus.ru, sessionid=67j6b654lwz96vykr735si8ka5451vc3; expires=ср, 05 апр. 2023 01:58:22 MSK; path=/; domain=otus.ru;secure;; sameSite=Lax, _ym_d=1672916303; expires=пт, 05 янв. 2024 01:58:22 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _tt_enable_cookie=1; expires=вт, 30 янв. 2024 01:58:23 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=чт, 05 янв. 2023 02:28:23 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.__arc_domain=gdeslon.ru; expires=вт, 04 июл. 2023 01:58:23 MSK; path=/; domain=.otus.ru, _gid=GA1.2.402922839.1672916303; expires=пт, 06 янв. 2023 01:58:22 MSK; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=пт, 09 февр. 2024 01:58:25 MSK; path=/; domain=.otus.ru, analytic_id=1672916305463081; expires=пт, 09 февр. 2024 01:58:25 MSK; path=/; domain=.otus.ru, _ym_uid=1672916303681019273; expires=пт, 05 янв. 2024 01:58:22 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.user_id=cc840af8-10dc-48ab-9982-6be6fb1687f3; expires=вт, 04 июл. 2023 01:58:23 MSK; path=/; domain=.otus.ru, _gat=1; expires=чт, 05 янв. 2023 01:59:22 MSK; path=/; domain=.otus.ru, _ym_isad=2; expires=пт, 06 янв. 2023 09:58:23 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ga=GA1.2.1567808663.1672916303; expires=пт, 09 февр. 2024 01:58:22 MSK; path=/; domain=.otus.ru, _ttp=Dvf3KaVPNMEsOCPHK_tuvxAV8W7; expires=вт, 30 янв. 2024 01:58:23 MSK; path=/; domain=.otus.ru, advcake_session_id=aad1b726-8a69-ade4-742d-10aaf735d150; expires=сб, 04 февр. 2023 01:58:22 MSK; path=/; domain=.otus.ru]
+2023-01-05 13:58:26,287 INFO h.Logger [main] Вывели Cookie
+2023-01-05 13:58:30,893 INFO h.Logger [main] Проверили имя указанное при регистрации на главной странице сайта
+2023-01-05 13:59:03,691 INFO h.Logger [main] Открыли Chrome в режиме полного экрана
+2023-01-05 13:59:06,092 INFO h.Logger [main] Открыли сайт Отуса
+2023-01-05 14:01:37,626 INFO h.Logger [main] Открыли Chrome в режиме полного экрана
+2023-01-05 14:01:40,965 INFO h.Logger [main] Открыли сайт Отуса
+2023-01-05 14:02:41,818 INFO h.Logger [main] Открыли Chrome в режиме полного экрана
+2023-01-05 14:02:45,433 INFO h.Logger [main] Открыли сайт Отуса
+2023-01-05 14:03:02,406 INFO h.Logger [main] Открыли Chrome в режиме полного экрана
+2023-01-05 14:03:05,579 INFO h.Logger [main] Открыли сайт Отуса
+2023-01-05 14:08:34,159 INFO h.Logger [main] Открыли Chrome в режиме полного экрана
+2023-01-05 14:08:39,377 INFO h.Logger [main] Открыли сайт Отуса
+2023-01-05 14:11:30,560 INFO h.Logger [main] Открыли Chrome в режиме полного экрана
+2023-01-05 14:11:35,970 INFO h.Logger [main] Открыли сайт Отуса
+2023-01-05 14:12:57,429 INFO h.Logger [main] Открыли Chrome в режиме полного экрана
+2023-01-05 14:13:00,812 INFO h.Logger [main] Открыли сайт Отуса
+2023-01-05 14:13:02,412 INFO h.Logger [main] Произвели авторизацю
+2023-01-05 14:13:02,447 INFO h.Logger [main] [advcake_track_id=0289f06c-bb41-b903-9531-d7490290194e; expires=сб, 04 февр. 2023 02:12:58 MSK; path=/; domain=.otus.ru, oid=7a962cbe151492b163638253a40a11e6; expires=пт, 09 февр. 2024 02:13:01 MSK; path=/; domain=.otus.ru, sessionid=b54vgtad5wz18m8tnwmubfk7ffpxnnbf; expires=ср, 05 апр. 2023 02:12:58 MSK; path=/; domain=otus.ru;secure;; sameSite=Lax, _ym_d=1672917179; expires=пт, 05 янв. 2024 02:12:59 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _tt_enable_cookie=1; expires=вт, 30 янв. 2024 02:13:00 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=чт, 05 янв. 2023 02:43:00 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.__arc_domain=gdeslon.ru; expires=вт, 04 июл. 2023 02:12:59 MSK; path=/; domain=.otus.ru, _gid=GA1.2.326450687.1672917179; expires=пт, 06 янв. 2023 02:12:59 MSK; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=пт, 09 февр. 2024 02:13:01 MSK; path=/; domain=.otus.ru, analytic_id=1672917182284835; expires=пт, 09 февр. 2024 02:13:02 MSK; path=/; domain=.otus.ru, _ym_uid=1672917179950324539; expires=пт, 05 янв. 2024 02:12:59 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.user_id=383a63c8-c87d-45aa-bb8e-e36bef1e4ce6; expires=вт, 04 июл. 2023 02:12:59 MSK; path=/; domain=.otus.ru, _gat=1; expires=чт, 05 янв. 2023 02:13:59 MSK; path=/; domain=.otus.ru, _ym_isad=2; expires=пт, 06 янв. 2023 10:13:00 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ga=GA1.2.652573212.1672917179; expires=пт, 09 февр. 2024 02:12:59 MSK; path=/; domain=.otus.ru, _ttp=1x9IPtRSKjdHWuCVyAZGj6BY9t8; expires=вт, 30 янв. 2024 02:13:00 MSK; path=/; domain=.otus.ru, advcake_session_id=ebbe5ba4-b92b-1b6e-b6b9-b02db0e09381; expires=сб, 04 февр. 2023 02:12:58 MSK; path=/; domain=.otus.ru]
+2023-01-05 14:13:02,448 INFO h.Logger [main] Вывели Cookie
+2023-01-05 14:17:47,457 INFO h.Logger [main] Открыли Chrome в режиме полного экрана
+2023-01-05 14:17:50,862 INFO h.Logger [main] Открыли сайт Отуса
+2023-01-05 14:17:52,759 INFO h.Logger [main] Произвели авторизацю
+2023-01-05 14:17:52,836 INFO h.Logger [main] [advcake_track_id=fc29f24a-7d76-89ab-f0a8-0e4fa23fcc06; expires=сб, 04 февр. 2023 02:17:49 MSK; path=/; domain=.otus.ru, oid=3fc82f245857c06598441b28c86f8342; expires=пт, 09 февр. 2024 02:17:51 MSK; path=/; domain=.otus.ru, sessionid=tnmilmiyilr3l6inukfw6bn47rqwm6yn; expires=ср, 05 апр. 2023 02:17:48 MSK; path=/; domain=otus.ru;secure;; sameSite=Lax, _ym_d=1672917469; expires=пт, 05 янв. 2024 02:17:49 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _tt_enable_cookie=1; expires=вт, 30 янв. 2024 02:17:50 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=чт, 05 янв. 2023 02:47:50 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.__arc_domain=gdeslon.ru; expires=вт, 04 июл. 2023 02:17:50 MSK; path=/; domain=.otus.ru, _gid=GA1.2.1695585018.1672917470; expires=пт, 06 янв. 2023 02:17:49 MSK; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=пт, 09 февр. 2024 02:17:51 MSK; path=/; domain=.otus.ru, analytic_id=1672917471428995; expires=пт, 09 февр. 2024 02:17:51 MSK; path=/; domain=.otus.ru, _ym_uid=167291746935749698; expires=пт, 05 янв. 2024 02:17:49 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.user_id=2ad4a02a-2db9-472c-ac0c-1db628ddae03; expires=вт, 04 июл. 2023 02:17:50 MSK; path=/; domain=.otus.ru, _gat=1; expires=чт, 05 янв. 2023 02:18:49 MSK; path=/; domain=.otus.ru, _ym_isad=2; expires=пт, 06 янв. 2023 10:17:50 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ga=GA1.2.1739404506.1672917470; expires=пт, 09 февр. 2024 02:17:49 MSK; path=/; domain=.otus.ru, _ttp=zUcHiLt1Qmc6QKvHYO-ZGdYxFlT; expires=вт, 30 янв. 2024 02:17:50 MSK; path=/; domain=.otus.ru, advcake_session_id=4458f7dc-b87e-f11e-09f9-af94492d51a5; expires=сб, 04 февр. 2023 02:17:49 MSK; path=/; domain=.otus.ru]
+2023-01-05 14:17:52,838 INFO h.Logger [main] Вывели Cookie
+2023-01-05 14:17:55,242 INFO h.Logger [main] Проверили имя указанное при регистрации на главной странице сайта
+2023-01-05 18:37:09,477 INFO h.Logger [main] Открыли Chrome в режиме киоска
+2023-01-05 18:37:09,500 INFO h.Logger [main] Открыли браузер в fullscreen
+2023-01-05 18:37:12,406 INFO h.Logger [main] Перешли на сайт
+2023-01-05 18:37:12,571 INFO h.Logger [main] Кликнули по картинке
+2023-01-05 18:37:13,349 INFO h.Logger [main] Проверили что картинка открылась в модальном окне
+2023-01-05 18:37:15,970 INFO h.Logger [main] Открыли Chrome в headless режиме
+2023-01-05 18:37:15,970 INFO h.Logger [main] Открыли браузер в headless режиме
+2023-01-05 18:37:18,626 INFO h.Logger [main] Перешли в поисковую систему
+2023-01-05 18:38:23,930 INFO h.Logger [main] Ввели в поисковю строку ОТУС и кликнули по кнопке поиска 
+2023-01-05 18:38:24,124 INFO h.Logger [main] Проверка поисковой выдачи
+2023-01-05 18:38:27,623 INFO h.Logger [main] Открыли Chrome в режиме полного экрана
+2023-01-05 18:38:35,823 INFO h.Logger [main] Открыли сайт Отуса
+2023-01-05 18:38:38,480 INFO h.Logger [main] Произвели авторизацю
+2023-01-05 18:38:38,527 INFO h.Logger [main] [advcake_track_id=a6f310e2-44f2-3628-1690-13cb9e2876c4; expires=сб, 04 февр. 2023 06:38:29 MSK; path=/; domain=.otus.ru, sessionid=6j7y6necxvmpw0ez09j7e89835krj87g; expires=ср, 05 апр. 2023 06:38:28 MSK; path=/; domain=otus.ru;secure;; sameSite=Lax, _ym_d=1672933109; expires=пт, 05 янв. 2024 06:38:29 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, oid=cf760a27420933f13bc553bb6d585300; expires=пт, 09 февр. 2024 06:38:36 MSK; path=/; domain=.otus.ru, _tt_enable_cookie=1; expires=вт, 30 янв. 2024 06:38:31 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=чт, 05 янв. 2023 07:08:31 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.__arc_domain=gdeslon.ru; expires=вт, 04 июл. 2023 06:38:31 MSK; path=/; domain=.otus.ru, _gid=GA1.2.2114606912.1672933111; expires=пт, 06 янв. 2023 06:38:31 MSK; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=пт, 09 февр. 2024 06:38:36 MSK; path=/; domain=.otus.ru, analytic_id=1672933116757653; expires=пт, 09 февр. 2024 06:38:36 MSK; path=/; domain=.otus.ru, _ym_uid=167293310988032357; expires=пт, 05 янв. 2024 06:38:29 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.user_id=7083e4cb-3c92-425f-a906-33639ce652db; expires=вт, 04 июл. 2023 06:38:31 MSK; path=/; domain=.otus.ru, _ym_isad=2; expires=пт, 06 янв. 2023 02:38:31 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _gat=1; expires=чт, 05 янв. 2023 06:39:31 MSK; path=/; domain=.otus.ru, _ga=GA1.2.843059589.1672933111; expires=пт, 09 февр. 2024 06:38:31 MSK; path=/; domain=.otus.ru, _ttp=g4vCyTwcRvDehu0RFJ9_yxwRORK; expires=вт, 30 янв. 2024 06:38:31 MSK; path=/; domain=.otus.ru, advcake_session_id=e446359d-1c4b-7837-04e5-428b72a9e535; expires=сб, 04 февр. 2023 06:38:29 MSK; path=/; domain=.otus.ru]
+2023-01-05 18:38:38,529 INFO h.Logger [main] Вывели Cookie
+2023-01-05 18:38:42,786 INFO h.Logger [main] Проверили имя указанное при регистрации на главной странице сайта
+2023-01-05 18:43:33,554 INFO h.Logger [main] Открыли Chrome в режиме полного экрана
+2023-01-05 18:43:39,467 INFO h.Logger [main] Открыли сайт Отуса
+2023-01-05 18:43:42,136 INFO h.Logger [main] Произвели авторизацю
+2023-01-05 18:43:42,199 INFO h.Logger [main] [advcake_track_id=828eff25-3903-a6ed-266c-3baf4a9aa1db; expires=сб, 04 февр. 2023 06:43:35 MSK; path=/; domain=.otus.ru, oid=20b58f81c3a7d975606fdcfd8bad975a; expires=пт, 09 февр. 2024 06:43:40 MSK; path=/; domain=.otus.ru, sessionid=umfgx4im3eugy1rp1au4rly2vhboy2wn; expires=ср, 05 апр. 2023 06:43:34 MSK; path=/; domain=otus.ru;secure;; sameSite=Lax, _ym_d=1672933415; expires=пт, 05 янв. 2024 06:43:35 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _tt_enable_cookie=1; expires=вт, 30 янв. 2024 06:43:37 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=чт, 05 янв. 2023 07:13:37 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.__arc_domain=gdeslon.ru; expires=вт, 04 июл. 2023 06:43:37 MSK; path=/; domain=.otus.ru, _gid=GA1.2.39905572.1672933416; expires=пт, 06 янв. 2023 06:43:35 MSK; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=пт, 09 февр. 2024 06:43:40 MSK; path=/; domain=.otus.ru, analytic_id=1672933420018367; expires=пт, 09 февр. 2024 06:43:40 MSK; path=/; domain=.otus.ru, _ym_uid=1672933415128483349; expires=пт, 05 янв. 2024 06:43:35 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.user_id=0e2cb3c3-203c-4a60-ae2b-16282b8dd2a7; expires=вт, 04 июл. 2023 06:43:37 MSK; path=/; domain=.otus.ru, _gat=1; expires=чт, 05 янв. 2023 06:44:35 MSK; path=/; domain=.otus.ru, _ym_isad=2; expires=пт, 06 янв. 2023 02:43:36 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ga=GA1.2.1700617779.1672933416; expires=пт, 09 февр. 2024 06:43:35 MSK; path=/; domain=.otus.ru, _ttp=9vZnCqyKvgEFADQquc49YGsfYZc; expires=вт, 30 янв. 2024 06:43:37 MSK; path=/; domain=.otus.ru, advcake_session_id=1111f410-feaf-90ad-25ff-e844cb9c5ced; expires=сб, 04 февр. 2023 06:43:35 MSK; path=/; domain=.otus.ru]
+2023-01-05 18:43:42,202 INFO h.Logger [main] Вывели Cookie
+2023-01-05 18:46:31,644 INFO h.Logger [main] Открыли Chrome в режиме полного экрана
+2023-01-05 18:46:51,557 INFO h.Logger [main] Открыли сайт Отуса
+2023-01-05 18:46:54,371 INFO h.Logger [main] Произвели авторизацю
+2023-01-05 18:46:54,456 INFO h.Logger [main] [advcake_track_id=3159637d-9ef8-e4a8-c62d-c7518fd0d6bb; expires=сб, 04 февр. 2023 06:46:33 MSK; path=/; domain=.otus.ru, sessionid=0r6u4lag3bvlh3rdriantbspsqlgsivv; expires=ср, 05 апр. 2023 06:46:32 MSK; path=/; domain=otus.ru;secure;; sameSite=Lax, oid=695694537725e7c26941a64165d2c40c; expires=пт, 09 февр. 2024 06:46:52 MSK; path=/; domain=.otus.ru, _ym_d=1672933593; expires=пт, 05 янв. 2024 06:46:33 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _tt_enable_cookie=1; expires=вт, 30 янв. 2024 06:46:35 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=чт, 05 янв. 2023 07:16:35 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.__arc_domain=gdeslon.ru; expires=вт, 04 июл. 2023 06:46:34 MSK; path=/; domain=.otus.ru, _gid=GA1.2.728612088.1672933593; expires=пт, 06 янв. 2023 06:46:33 MSK; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=пт, 09 февр. 2024 06:46:52 MSK; path=/; domain=.otus.ru, analytic_id=1672933612176865; expires=пт, 09 февр. 2024 06:46:52 MSK; path=/; domain=.otus.ru, _ym_uid=1672933593789901591; expires=пт, 05 янв. 2024 06:46:33 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.user_id=b3da4e3f-7732-4cf0-8bb3-5e1114c1f8aa; expires=вт, 04 июл. 2023 06:46:34 MSK; path=/; domain=.otus.ru, _gat=1; expires=чт, 05 янв. 2023 06:47:33 MSK; path=/; domain=.otus.ru, _ym_isad=2; expires=пт, 06 янв. 2023 02:46:34 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ga=GA1.2.579237114.1672933593; expires=пт, 09 февр. 2024 06:46:33 MSK; path=/; domain=.otus.ru, _ttp=Tg_Sre3_YCt6eUCz3n6CbEEOGoH; expires=вт, 30 янв. 2024 06:46:35 MSK; path=/; domain=.otus.ru, advcake_session_id=21e4312c-40fa-241a-c266-66a2e155ef7a; expires=сб, 04 февр. 2023 06:46:33 MSK; path=/; domain=.otus.ru]
+2023-01-05 18:46:54,458 INFO h.Logger [main] Вывели Cookie
+2023-01-05 18:46:59,353 INFO h.Logger [main] Проверили имя указанное при регистрации на главной странице сайта
+2023-01-05 18:49:47,927 INFO h.Logger [main] Открыли Chrome в режиме полного экрана
+2023-01-05 18:49:51,884 INFO h.Logger [main] Открыли сайт Отуса
+2023-01-05 18:49:54,449 INFO h.Logger [main] Произвели авторизацю
+2023-01-05 18:49:54,499 INFO h.Logger [main] [advcake_track_id=6212f864-8b32-ab64-61ed-4ff304f11063; expires=сб, 04 февр. 2023 06:49:49 MSK; path=/; domain=.otus.ru, oid=9ef3b69e142fccff913f5bf401ae2bc0; expires=пт, 09 февр. 2024 06:49:52 MSK; path=/; domain=.otus.ru, sessionid=spnis4o2b4ma440ybzev0fblwws500y9; expires=ср, 05 апр. 2023 06:49:48 MSK; path=/; domain=otus.ru;secure;; sameSite=Lax, _ym_d=1672933790; expires=пт, 05 янв. 2024 06:49:49 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _tt_enable_cookie=1; expires=вт, 30 янв. 2024 06:49:51 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=чт, 05 янв. 2023 07:19:52 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.__arc_domain=gdeslon.ru; expires=вт, 04 июл. 2023 06:49:51 MSK; path=/; domain=.otus.ru, _gid=GA1.2.319758019.1672933790; expires=пт, 06 янв. 2023 06:49:50 MSK; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=пт, 09 февр. 2024 06:49:52 MSK; path=/; domain=.otus.ru, _ym_uid=1672933790505342823; expires=пт, 05 янв. 2024 06:49:49 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.user_id=3a66faa0-3e78-4fc6-8141-5541c43f46dd; expires=вт, 04 июл. 2023 06:49:51 MSK; path=/; domain=.otus.ru, _gat=1; expires=чт, 05 янв. 2023 06:50:50 MSK; path=/; domain=.otus.ru, _ym_isad=2; expires=пт, 06 янв. 2023 02:49:51 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ga=GA1.2.1603117290.1672933790; expires=пт, 09 февр. 2024 06:49:50 MSK; path=/; domain=.otus.ru, _ttp=mY6JKyRzzG20rptPX72QjxhMOgy; expires=вт, 30 янв. 2024 06:49:51 MSK; path=/; domain=.otus.ru, advcake_session_id=d57794f7-0945-d9c6-028d-46e0fe60558f; expires=сб, 04 февр. 2023 06:49:49 MSK; path=/; domain=.otus.ru]
+2023-01-05 18:49:54,501 INFO h.Logger [main] Вывели Cookie
+2023-01-05 18:49:57,995 INFO h.Logger [main] Проверили имя указанное при регистрации на главной странице сайта
+2023-01-05 18:51:27,341 INFO h.Logger [main] Открыли Chrome в режиме полного экрана
+2023-01-05 18:51:38,708 INFO h.Logger [main] Открыли сайт Отуса
+2023-01-05 18:51:41,200 INFO h.Logger [main] Произвели авторизацю
+2023-01-05 18:51:41,277 INFO h.Logger [main] [advcake_track_id=7be66890-8611-fa77-c16d-a9f94e1ccea2; expires=сб, 04 февр. 2023 06:51:29 MSK; path=/; domain=.otus.ru, sessionid=nkmhpuwz7rqfw36h4porgig7npioflwg; expires=ср, 05 апр. 2023 06:51:28 MSK; path=/; domain=otus.ru;secure;; sameSite=Lax, oid=647c9af387d0f91ebd68a8d7662b678e; expires=пт, 09 февр. 2024 06:51:39 MSK; path=/; domain=.otus.ru, _ym_d=1672933889; expires=пт, 05 янв. 2024 06:51:28 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _tt_enable_cookie=1; expires=вт, 30 янв. 2024 06:51:30 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=чт, 05 янв. 2023 07:21:31 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.__arc_domain=gdeslon.ru; expires=вт, 04 июл. 2023 06:51:30 MSK; path=/; domain=.otus.ru, _gid=GA1.2.1382432751.1672933889; expires=пт, 06 янв. 2023 06:51:29 MSK; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=пт, 09 февр. 2024 06:51:39 MSK; path=/; domain=.otus.ru, analytic_id=1672933899341758; expires=пт, 09 февр. 2024 06:51:39 MSK; path=/; domain=.otus.ru, _ym_uid=1672933889672911182; expires=пт, 05 янв. 2024 06:51:28 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.user_id=359b0471-17f8-4884-a655-282bfd0f04b9; expires=вт, 04 июл. 2023 06:51:30 MSK; path=/; domain=.otus.ru, _gat=1; expires=чт, 05 янв. 2023 06:52:29 MSK; path=/; domain=.otus.ru, _ym_isad=2; expires=пт, 06 янв. 2023 02:51:30 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ga=GA1.2.691885983.1672933889; expires=пт, 09 февр. 2024 06:51:29 MSK; path=/; domain=.otus.ru, _ttp=mppwKtCkUv6B9udItbTsDyPa8ku; expires=вт, 30 янв. 2024 06:51:30 MSK; path=/; domain=.otus.ru, advcake_session_id=88bde3ce-0e08-5339-f61d-ed39bb9a4172; expires=сб, 04 февр. 2023 06:51:29 MSK; path=/; domain=.otus.ru]
+2023-01-05 18:51:41,280 INFO h.Logger [main] Вывели Cookie
+2023-01-05 18:51:45,938 INFO h.Logger [main] Проверили имя указанное при регистрации на главной странице сайта
+2023-01-05 18:54:55,257 INFO h.Logger [main] Открыли Chrome в режиме киоска
+2023-01-05 18:54:55,271 INFO h.Logger [main] Открыли браузер в fullscreen
+2023-01-05 18:54:57,792 INFO h.Logger [main] Перешли на сайт
+2023-01-05 18:54:58,050 INFO h.Logger [main] Кликнули по картинке
+2023-01-05 18:54:58,870 INFO h.Logger [main] Проверили что картинка открылась в модальном окне
+2023-01-05 18:55:01,430 INFO h.Logger [main] Открыли Chrome в headless режиме
+2023-01-05 18:55:01,431 INFO h.Logger [main] Открыли браузер в headless режиме
+2023-01-05 18:55:02,993 INFO h.Logger [main] Перешли в поисковую систему
+2023-01-05 18:55:04,095 INFO h.Logger [main] Ввели в поисковю строку ОТУС и кликнули по кнопке поиска 
+2023-01-05 18:55:07,086 INFO h.Logger [main] Открыли Chrome в режиме полного экрана
+2023-01-05 18:55:11,316 INFO h.Logger [main] Открыли сайт Отуса
+2023-01-05 18:55:13,253 INFO h.Logger [main] Произвели авторизацю
+2023-01-05 18:55:13,310 INFO h.Logger [main] [advcake_track_id=608c1de9-59b7-2df5-886a-f70c23e2d4f8; expires=сб, 04 февр. 2023 06:55:10 MSK; path=/; domain=.otus.ru, oid=bbc8a4726c541a0d6a39e0823023ad47; expires=пт, 09 февр. 2024 06:55:11 MSK; path=/; domain=.otus.ru, sessionid=b7qftdjt98ssl8qlphffo1lgcvb92nno; expires=ср, 05 апр. 2023 06:55:08 MSK; path=/; domain=otus.ru;secure;; sameSite=Lax, _ym_d=1672934108; expires=пт, 05 янв. 2024 06:55:08 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _tt_enable_cookie=1; expires=вт, 30 янв. 2024 06:55:10 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=чт, 05 янв. 2023 07:25:10 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.__arc_domain=gdeslon.ru; expires=вт, 04 июл. 2023 06:55:10 MSK; path=/; domain=.otus.ru, _gid=GA1.2.207849328.1672934110; expires=пт, 06 янв. 2023 06:55:10 MSK; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=пт, 09 февр. 2024 06:55:11 MSK; path=/; domain=.otus.ru, analytic_id=1672934112135657; expires=пт, 09 февр. 2024 06:55:12 MSK; path=/; domain=.otus.ru, _ym_uid=167293410837672759; expires=пт, 05 янв. 2024 06:55:08 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.user_id=6f68964f-c2e8-4605-801d-fe8ebdf48cdc; expires=вт, 04 июл. 2023 06:55:10 MSK; path=/; domain=.otus.ru, _gat=1; expires=чт, 05 янв. 2023 06:56:10 MSK; path=/; domain=.otus.ru, _ym_isad=2; expires=пт, 06 янв. 2023 02:55:10 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ga=GA1.2.71221573.1672934110; expires=пт, 09 февр. 2024 06:55:10 MSK; path=/; domain=.otus.ru, _ttp=uD4zH7NKyhINihA9Vm6yf3Wr5QX; expires=вт, 30 янв. 2024 06:55:10 MSK; path=/; domain=.otus.ru, advcake_session_id=185d26ca-6f76-be24-98d1-e9cd6c4628f8; expires=сб, 04 февр. 2023 06:55:10 MSK; path=/; domain=.otus.ru]
+2023-01-05 18:55:13,312 INFO h.Logger [main] Вывели Cookie
+2023-01-05 18:55:16,750 INFO h.Logger [main] Проверили имя указанное при регистрации на главной странице сайта
+2023-01-05 18:56:05,648 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ headless СЂРµР¶РёРјРµ
+2023-01-05 18:56:05,656 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Р±СЂР°СѓР·РµСЂ РІ headless СЂРµР¶РёРјРµ
+2023-01-05 18:56:07,184 INFO h.Logger [main] РџРµСЂРµС€Р»Рё РІ РїРѕРёСЃРєРѕРІСѓСЋ СЃРёСЃС‚РµРјСѓ
+2023-01-05 18:56:07,925 INFO h.Logger [main] Р’РІРµР»Рё РІ РїРѕРёСЃРєРѕРІСЋ СЃС‚СЂРѕРєСѓ РћРўРЈРЎ Рё РєР»РёРєРЅСѓР»Рё РїРѕ РєРЅРѕРїРєРµ РїРѕРёСЃРєР° 
+2023-01-05 18:57:55,052 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ headless СЂРµР¶РёРјРµ
+2023-01-05 18:57:55,064 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Р±СЂР°СѓР·РµСЂ РІ headless СЂРµР¶РёРјРµ
+2023-01-05 18:57:56,722 INFO h.Logger [main] РџРµСЂРµС€Р»Рё РІ РїРѕРёСЃРєРѕРІСѓСЋ СЃРёСЃС‚РµРјСѓ
+2023-01-05 18:57:57,503 INFO h.Logger [main] Р’РІРµР»Рё РІ РїРѕРёСЃРєРѕРІСЋ СЃС‚СЂРѕРєСѓ РћРўРЈРЎ Рё РєР»РёРєРЅСѓР»Рё РїРѕ РєРЅРѕРїРєРµ РїРѕРёСЃРєР° 
+2023-01-05 18:58:49,275 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ headless СЂРµР¶РёРјРµ
+2023-01-05 18:58:49,285 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Р±СЂР°СѓР·РµСЂ РІ headless СЂРµР¶РёРјРµ
+2023-01-05 18:58:50,832 INFO h.Logger [main] РџРµСЂРµС€Р»Рё РІ РїРѕРёСЃРєРѕРІСѓСЋ СЃРёСЃС‚РµРјСѓ
+2023-01-05 18:58:51,448 INFO h.Logger [main] Р’РІРµР»Рё РІ РїРѕРёСЃРєРѕРІСЋ СЃС‚СЂРѕРєСѓ РћРўРЈРЎ Рё РєР»РёРєРЅСѓР»Рё РїРѕ РєРЅРѕРїРєРµ РїРѕРёСЃРєР° 
+2023-01-05 19:01:23,883 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ headless СЂРµР¶РёРјРµ
+2023-01-05 19:01:23,895 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Р±СЂР°СѓР·РµСЂ РІ headless СЂРµР¶РёРјРµ
+2023-01-05 19:01:25,407 INFO h.Logger [main] РџРµСЂРµС€Р»Рё РІ РїРѕРёСЃРєРѕРІСѓСЋ СЃРёСЃС‚РµРјСѓ
+2023-01-05 19:01:26,209 INFO h.Logger [main] Р’РІРµР»Рё РІ РїРѕРёСЃРєРѕРІСЋ СЃС‚СЂРѕРєСѓ РћРўРЈРЎ Рё РєР»РёРєРЅСѓР»Рё РїРѕ РєРЅРѕРїРєРµ РїРѕРёСЃРєР° 
+2023-01-05 19:02:08,666 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ headless СЂРµР¶РёРјРµ
+2023-01-05 19:02:08,678 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Р±СЂР°СѓР·РµСЂ РІ headless СЂРµР¶РёРјРµ
+2023-01-05 19:02:10,481 INFO h.Logger [main] РџРµСЂРµС€Р»Рё РІ РїРѕРёСЃРєРѕРІСѓСЋ СЃРёСЃС‚РµРјСѓ
+2023-01-05 19:02:11,175 INFO h.Logger [main] Р’РІРµР»Рё РІ РїРѕРёСЃРєРѕРІСЋ СЃС‚СЂРѕРєСѓ РћРўРЈРЎ Рё РєР»РёРєРЅСѓР»Рё РїРѕ РєРЅРѕРїРєРµ РїРѕРёСЃРєР° 
+2023-01-05 19:03:12,788 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ headless СЂРµР¶РёРјРµ
+2023-01-05 19:03:12,800 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Р±СЂР°СѓР·РµСЂ РІ headless СЂРµР¶РёРјРµ
+2023-01-05 19:03:14,243 INFO h.Logger [main] РџРµСЂРµС€Р»Рё РІ РїРѕРёСЃРєРѕРІСѓСЋ СЃРёСЃС‚РµРјСѓ
+2023-01-05 19:03:14,902 INFO h.Logger [main] Р’РІРµР»Рё РІ РїРѕРёСЃРєРѕРІСЋ СЃС‚СЂРѕРєСѓ РћРўРЈРЎ Рё РєР»РёРєРЅСѓР»Рё РїРѕ РєРЅРѕРїРєРµ РїРѕРёСЃРєР° 
+2023-01-05 19:04:26,325 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ headless СЂРµР¶РёРјРµ
+2023-01-05 19:04:26,336 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Р±СЂР°СѓР·РµСЂ РІ headless СЂРµР¶РёРјРµ
+2023-01-05 19:04:28,267 INFO h.Logger [main] РџРµСЂРµС€Р»Рё РІ РїРѕРёСЃРєРѕРІСѓСЋ СЃРёСЃС‚РµРјСѓ
+2023-01-05 19:04:29,053 INFO h.Logger [main] Р’РІРµР»Рё РІ РїРѕРёСЃРєРѕРІСЋ СЃС‚СЂРѕРєСѓ РћРўРЈРЎ Рё РєР»РёРєРЅСѓР»Рё РїРѕ РєРЅРѕРїРєРµ РїРѕРёСЃРєР° 
+2023-01-05 19:05:11,570 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ headless СЂРµР¶РёРјРµ
+2023-01-05 19:05:11,581 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Р±СЂР°СѓР·РµСЂ РІ headless СЂРµР¶РёРјРµ
+2023-01-05 19:05:13,703 INFO h.Logger [main] РџРµСЂРµС€Р»Рё РІ РїРѕРёСЃРєРѕРІСѓСЋ СЃРёСЃС‚РµРјСѓ
+2023-01-05 19:05:14,282 INFO h.Logger [main] Р’РІРµР»Рё РІ РїРѕРёСЃРєРѕРІСЋ СЃС‚СЂРѕРєСѓ РћРўРЈРЎ Рё РєР»РёРєРЅСѓР»Рё РїРѕ РєРЅРѕРїРєРµ РїРѕРёСЃРєР° 
+2023-01-05 19:11:29,785 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ headless СЂРµР¶РёРјРµ
+2023-01-05 19:11:29,794 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Р±СЂР°СѓР·РµСЂ РІ headless СЂРµР¶РёРјРµ
+2023-01-05 19:11:34,082 INFO h.Logger [main] РџРµСЂРµС€Р»Рё РІ РїРѕРёСЃРєРѕРІСѓСЋ СЃРёСЃС‚РµРјСѓ
+2023-01-05 19:12:39,762 INFO h.Logger [main] Р’РІРµР»Рё РІ РїРѕРёСЃРєРѕРІСЋ СЃС‚СЂРѕРєСѓ РћРўРЈРЎ Рё РєР»РёРєРЅСѓР»Рё РїРѕ РєРЅРѕРїРєРµ РїРѕРёСЃРєР° 
+2023-01-05 19:15:06,858 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ headless СЂРµР¶РёРјРµ
+2023-01-05 19:15:06,867 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Р±СЂР°СѓР·РµСЂ РІ headless СЂРµР¶РёРјРµ
+2023-01-05 19:15:08,403 INFO h.Logger [main] РџРµСЂРµС€Р»Рё РІ РїРѕРёСЃРєРѕРІСѓСЋ СЃРёСЃС‚РµРјСѓ
+2023-01-05 19:15:10,632 INFO h.Logger [main] Р’РІРµР»Рё РІ РїРѕРёСЃРєРѕРІСЋ СЃС‚СЂРѕРєСѓ РћРўРЈРЎ Рё РєР»РёРєРЅСѓР»Рё РїРѕ РєРЅРѕРїРєРµ РїРѕРёСЃРєР° 
+2023-01-05 19:16:31,794 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ headless СЂРµР¶РёРјРµ
+2023-01-05 19:16:31,803 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Р±СЂР°СѓР·РµСЂ РІ headless СЂРµР¶РёРјРµ
+2023-01-05 19:16:34,251 INFO h.Logger [main] РџРµСЂРµС€Р»Рё РІ РїРѕРёСЃРєРѕРІСѓСЋ СЃРёСЃС‚РµРјСѓ
+2023-01-05 19:16:34,907 INFO h.Logger [main] Р’РІРµР»Рё РІ РїРѕРёСЃРєРѕРІСЋ СЃС‚СЂРѕРєСѓ РћРўРЈРЎ Рё РєР»РёРєРЅСѓР»Рё РїРѕ РєРЅРѕРїРєРµ РїРѕРёСЃРєР° 
+2023-01-05 19:17:21,144 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ headless СЂРµР¶РёРјРµ
+2023-01-05 19:17:21,155 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Р±СЂР°СѓР·РµСЂ РІ headless СЂРµР¶РёРјРµ
+2023-01-05 19:17:26,734 INFO h.Logger [main] РџРµСЂРµС€Р»Рё РІ РїРѕРёСЃРєРѕРІСѓСЋ СЃРёСЃС‚РµРјСѓ
+2023-01-05 19:17:31,997 INFO h.Logger [main] Р’РІРµР»Рё РІ РїРѕРёСЃРєРѕРІСЋ СЃС‚СЂРѕРєСѓ РћРўРЈРЎ Рё РєР»РёРєРЅСѓР»Рё РїРѕ РєРЅРѕРїРєРµ РїРѕРёСЃРєР° 
+2023-01-05 19:18:55,572 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ headless СЂРµР¶РёРјРµ
+2023-01-05 19:18:55,584 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Р±СЂР°СѓР·РµСЂ РІ headless СЂРµР¶РёРјРµ
+2023-01-05 19:19:00,619 INFO h.Logger [main] РџРµСЂРµС€Р»Рё РІ РїРѕРёСЃРєРѕРІСѓСЋ СЃРёСЃС‚РµРјСѓ
+2023-01-05 19:19:05,069 INFO h.Logger [main] Р’РІРµР»Рё РІ РїРѕРёСЃРєРѕРІСЋ СЃС‚СЂРѕРєСѓ РћРўРЈРЎ Рё РєР»РёРєРЅСѓР»Рё РїРѕ РєРЅРѕРїРєРµ РїРѕРёСЃРєР° 
+2023-01-05 19:21:47,424 INFO h.Logger [main] Открыли Chrome в режиме киоска
+2023-01-05 19:21:47,448 INFO h.Logger [main] Открыли браузер в fullscreen
+2023-01-05 19:21:53,284 INFO h.Logger [main] Перешли на сайт
+2023-01-05 19:21:53,615 INFO h.Logger [main] Кликнули по картинке
+2023-01-05 19:21:54,743 INFO h.Logger [main] Проверили что картинка открылась в модальном окне
+2023-01-05 19:21:59,145 INFO h.Logger [main] Открыли Chrome в режиме полного экрана
+2023-01-05 19:22:03,398 INFO h.Logger [main] Открыли сайт Отуса
+2023-01-05 19:22:06,522 INFO h.Logger [main] Произвели авторизацю
+2023-01-05 19:22:06,634 INFO h.Logger [main] [advcake_track_id=5746f994-10ee-bc71-9c43-800359eed549; expires=сб, 04 февр. 2023 07:22:02 MSK; path=/; domain=.otus.ru, sessionid=1chct8rwmtqko5ojwulmjnecx1gfal7x; expires=ср, 05 апр. 2023 07:22:00 MSK; path=/; domain=otus.ru;secure;; sameSite=Lax, oid=ad9bf396e50d3a0df80e53c0d0fe5d77; expires=пт, 09 февр. 2024 07:22:04 MSK; path=/; domain=.otus.ru, _ym_d=1672935721; expires=пт, 05 янв. 2024 07:22:00 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _tt_enable_cookie=1; expires=вт, 30 янв. 2024 07:22:02 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=чт, 05 янв. 2023 07:52:03 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.__arc_domain=gdeslon.ru; expires=вт, 04 июл. 2023 07:22:02 MSK; path=/; domain=.otus.ru, _gid=GA1.2.207837630.1672935722; expires=пт, 06 янв. 2023 07:22:02 MSK; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=пт, 09 февр. 2024 07:22:04 MSK; path=/; domain=.otus.ru, analytic_id=1672935724318308; expires=пт, 09 февр. 2024 07:22:04 MSK; path=/; domain=.otus.ru, _ym_uid=1672935721197256433; expires=пт, 05 янв. 2024 07:22:00 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.user_id=c3bdf110-9fd5-4134-ac86-924ef0971998; expires=вт, 04 июл. 2023 07:22:02 MSK; path=/; domain=.otus.ru, _gat=1; expires=чт, 05 янв. 2023 07:23:02 MSK; path=/; domain=.otus.ru, _ym_isad=2; expires=пт, 06 янв. 2023 03:22:02 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ga=GA1.2.148457182.1672935722; expires=пт, 09 февр. 2024 07:22:02 MSK; path=/; domain=.otus.ru, _ttp=v5_CRGNJHZ9nwiwSwgKjhZWKDZJ; expires=вт, 30 янв. 2024 07:22:02 MSK; path=/; domain=.otus.ru, advcake_session_id=84a597f6-de4b-2499-1b7a-368741633e43; expires=сб, 04 февр. 2023 07:22:02 MSK; path=/; domain=.otus.ru]
+2023-01-05 19:22:06,634 INFO h.Logger [main] Вывели Cookie
+2023-01-05 19:22:10,229 INFO h.Logger [main] Проверили имя указанное при регистрации на главной странице сайта
+2023-01-05 19:37:00,908 INFO h.Logger [main] Открыли Chrome в headless режиме
+2023-01-05 19:37:00,919 INFO h.Logger [main] Открыли браузер в headless режиме
+2023-01-05 19:37:03,385 INFO h.Logger [main] Перешли в поисковую систему
+2023-01-05 19:37:04,511 INFO h.Logger [main] Ввели в поисковю строку ОТУС и кликнули по кнопке поиска 
+2023-01-05 19:39:41,481 INFO h.Logger [main] Открыли Chrome в headless режиме
+2023-01-05 19:39:41,572 INFO h.Logger [main] Открыли браузер в headless режиме
+2023-01-05 19:39:43,477 INFO h.Logger [main] Перешли в поисковую систему
+2023-01-05 19:39:44,378 INFO h.Logger [main] Ввели в поисковю строку ОТУС и кликнули по кнопке поиска 
+2023-01-05 19:41:51,165 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ headless СЂРµР¶РёРјРµ
+2023-01-05 19:41:51,218 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Р±СЂР°СѓР·РµСЂ РІ headless СЂРµР¶РёРјРµ
+2023-01-05 19:41:53,508 INFO h.Logger [main] РџРµСЂРµС€Р»Рё РІ РїРѕРёСЃРєРѕРІСѓСЋ СЃРёСЃС‚РµРјСѓ
+2023-01-05 19:41:58,288 INFO h.Logger [main] Р’РІРµР»Рё РІ РїРѕРёСЃРєРѕРІСЋ СЃС‚СЂРѕРєСѓ РћРўРЈРЎ Рё РєР»РёРєРЅСѓР»Рё РїРѕ РєРЅРѕРїРєРµ РїРѕРёСЃРєР° 
+2023-01-05 19:41:58,631 INFO h.Logger [main] РџСЂРѕРІРµСЂРєР° РїРѕРёСЃРєРѕРІРѕР№ РІС‹РґР°С‡Рё
+2023-01-05 19:42:34,911 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ headless СЂРµР¶РёРјРµ
+2023-01-05 19:42:34,929 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Р±СЂР°СѓР·РµСЂ РІ headless СЂРµР¶РёРјРµ
+2023-01-05 19:42:39,010 INFO h.Logger [main] РџРµСЂРµС€Р»Рё РІ РїРѕРёСЃРєРѕРІСѓСЋ СЃРёСЃС‚РµРјСѓ
+2023-01-05 19:42:45,131 INFO h.Logger [main] Р’РІРµР»Рё РІ РїРѕРёСЃРєРѕРІСЋ СЃС‚СЂРѕРєСѓ РћРўРЈРЎ Рё РєР»РёРєРЅСѓР»Рё РїРѕ РєРЅРѕРїРєРµ РїРѕРёСЃРєР° 
+2023-01-05 21:30:26,570 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ headless СЂРµР¶РёРјРµ
+2023-01-05 21:30:26,570 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Р±СЂР°СѓР·РµСЂ РІ headless СЂРµР¶РёРјРµ
+2023-01-05 21:30:27,884 INFO h.Logger [main] РџРµСЂРµС€Р»Рё РІ РїРѕРёСЃРєРѕРІСѓСЋ СЃРёСЃС‚РµРјСѓ
+2023-01-05 21:31:33,702 INFO h.Logger [main] Р’РІРµР»Рё РІ РїРѕРёСЃРєРѕРІСЋ СЃС‚СЂРѕРєСѓ РћРўРЈРЎ Рё РєР»РёРєРЅСѓР»Рё РїРѕ РєРЅРѕРїРєРµ РїРѕРёСЃРєР° 
+2023-01-05 21:31:33,780 INFO h.Logger [main] РџСЂРѕРІРµСЂРєР° РїРѕРёСЃРєРѕРІРѕР№ РІС‹РґР°С‡Рё
+2023-01-05 21:32:05,219 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ headless СЂРµР¶РёРјРµ
+2023-01-05 21:32:05,229 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Р±СЂР°СѓР·РµСЂ РІ headless СЂРµР¶РёРјРµ
+2023-01-05 21:32:06,451 INFO h.Logger [main] РџРµСЂРµС€Р»Рё РІ РїРѕРёСЃРєРѕРІСѓСЋ СЃРёСЃС‚РµРјСѓ
+2023-01-05 21:33:11,463 INFO h.Logger [main] Р’РІРµР»Рё РІ РїРѕРёСЃРєРѕРІСЋ СЃС‚СЂРѕРєСѓ РћРўРЈРЎ Рё РєР»РёРєРЅСѓР»Рё РїРѕ РєРЅРѕРїРєРµ РїРѕРёСЃРєР° 
+2023-01-05 21:33:37,899 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ headless СЂРµР¶РёРјРµ
+2023-01-05 21:33:37,904 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Р±СЂР°СѓР·РµСЂ РІ headless СЂРµР¶РёРјРµ
+2023-01-05 21:33:39,185 INFO h.Logger [main] РџРµСЂРµС€Р»Рё РІ РїРѕРёСЃРєРѕРІСѓСЋ СЃРёСЃС‚РµРјСѓ
+2023-01-05 21:33:41,939 INFO h.Logger [main] Р’РІРµР»Рё РІ РїРѕРёСЃРєРѕРІСЋ СЃС‚СЂРѕРєСѓ РћРўРЈРЎ Рё РєР»РёРєРЅСѓР»Рё РїРѕ РєРЅРѕРїРєРµ РїРѕРёСЃРєР° 
+2023-01-05 21:33:42,009 INFO h.Logger [main] РџСЂРѕРІРµСЂРєР° РїРѕРёСЃРєРѕРІРѕР№ РІС‹РґР°С‡Рё
+2023-01-05 21:33:53,429 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ headless СЂРµР¶РёРјРµ
+2023-01-05 21:33:53,429 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Р±СЂР°СѓР·РµСЂ РІ headless СЂРµР¶РёРјРµ
+2023-01-05 21:33:54,733 INFO h.Logger [main] РџРµСЂРµС€Р»Рё РІ РїРѕРёСЃРєРѕРІСѓСЋ СЃРёСЃС‚РµРјСѓ
+2023-01-05 21:33:57,620 INFO h.Logger [main] Р’РІРµР»Рё РІ РїРѕРёСЃРєРѕРІСЋ СЃС‚СЂРѕРєСѓ РћРўРЈРЎ Рё РєР»РёРєРЅСѓР»Рё РїРѕ РєРЅРѕРїРєРµ РїРѕРёСЃРєР° 
+2023-01-05 21:33:57,720 INFO h.Logger [main] РџСЂРѕРІРµСЂРєР° РїРѕРёСЃРєРѕРІРѕР№ РІС‹РґР°С‡Рё
+2023-01-05 21:39:38,799 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ headless СЂРµР¶РёРјРµ
+2023-01-05 21:39:38,809 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Р±СЂР°СѓР·РµСЂ РІ headless СЂРµР¶РёРјРµ
+2023-01-05 21:39:40,103 INFO h.Logger [main] РџРµСЂРµС€Р»Рё РІ РїРѕРёСЃРєРѕРІСѓСЋ СЃРёСЃС‚РµРјСѓ
+2023-01-05 21:40:44,876 INFO h.Logger [main] Р’РІРµР»Рё РІ РїРѕРёСЃРєРѕРІСЋ СЃС‚СЂРѕРєСѓ РћРўРЈРЎ Рё РєР»РёРєРЅСѓР»Рё РїРѕ РєРЅРѕРїРєРµ РїРѕРёСЃРєР° 
+2023-01-05 21:40:45,089 INFO h.Logger [main] РџСЂРѕРІРµСЂРєР° РїРѕРёСЃРєРѕРІРѕР№ РІС‹РґР°С‡Рё
+2023-01-05 21:43:41,001 INFO h.Logger [main] Открыли Chrome в режиме киоска
+2023-01-05 21:43:41,014 INFO h.Logger [main] Открыли браузер в fullscreen
+2023-01-05 21:43:43,479 INFO h.Logger [main] Перешли на сайт
+2023-01-05 21:43:43,725 INFO h.Logger [main] Кликнули по картинке
+2023-01-05 21:43:44,458 INFO h.Logger [main] Проверили что картинка открылась в модальном окне
+2023-01-05 21:43:46,606 INFO h.Logger [main] Открыли Chrome в headless режиме
+2023-01-05 21:43:46,606 INFO h.Logger [main] Открыли браузер в headless режиме
+2023-01-05 21:43:47,797 INFO h.Logger [main] Перешли в поисковую систему
+2023-01-05 21:44:40,665 INFO h.Logger [main] Открыли Chrome в режиме киоска
+2023-01-05 21:44:40,675 INFO h.Logger [main] Открыли браузер в fullscreen
+2023-01-05 21:44:43,198 INFO h.Logger [main] Перешли на сайт
+2023-01-05 21:44:43,313 INFO h.Logger [main] Кликнули по картинке
+2023-01-05 21:44:44,103 INFO h.Logger [main] Проверили что картинка открылась в модальном окне
+2023-01-05 21:44:46,360 INFO h.Logger [main] Открыли Chrome в headless режиме
+2023-01-05 21:44:46,361 INFO h.Logger [main] Открыли браузер в headless режиме
+2023-01-05 21:44:47,816 INFO h.Logger [main] Перешли в поисковую систему
+2023-01-05 21:45:56,029 INFO h.Logger [main] Ввели в поисковю строку ОТУС и кликнули по кнопке поиска 
+2023-01-05 21:45:56,332 INFO h.Logger [main] Проверка поисковой выдачи
+2023-01-05 21:45:58,507 INFO h.Logger [main] Открыли Chrome в режиме полного экрана
+2023-01-05 21:46:22,961 INFO h.Logger [main] Открыли сайт Отуса
+2023-01-05 21:46:24,758 INFO h.Logger [main] Произвели авторизацю
+2023-01-05 21:46:24,821 INFO h.Logger [main] [advcake_track_id=08ed9464-7eb4-de17-734b-eb8aee23bbad; expires=сб, 04 февр. 2023 09:46:02 MSK; path=/; domain=.otus.ru, sessionid=w0x0t8x1igwd4l72ostp7a4f17ekkc8r; expires=ср, 05 апр. 2023 09:46:00 MSK; path=/; domain=otus.ru;secure;; sameSite=Lax, oid=298d4c3fe934e641aa96036e1cb5a381; expires=пт, 09 февр. 2024 09:46:23 MSK; path=/; domain=.otus.ru, _ym_d=1672944361; expires=пт, 05 янв. 2024 09:46:01 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _tt_enable_cookie=1; expires=вт, 30 янв. 2024 09:46:22 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=чт, 05 янв. 2023 10:16:01 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.__arc_domain=gdeslon.ru; expires=вт, 04 июл. 2023 09:46:03 MSK; path=/; domain=.otus.ru, _gid=GA1.2.474995759.1672944361; expires=пт, 06 янв. 2023 09:46:01 MSK; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=пт, 09 февр. 2024 09:46:23 MSK; path=/; domain=.otus.ru, analytic_id=1672944383555391; expires=пт, 09 февр. 2024 09:46:23 MSK; path=/; domain=.otus.ru, _ym_uid=1672944361170278551; expires=пт, 05 янв. 2024 09:46:01 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.user_id=459cdac7-de15-4ce3-9a64-4b162aa1c7d5; expires=вт, 04 июл. 2023 09:46:03 MSK; path=/; domain=.otus.ru, _gat=1; expires=чт, 05 янв. 2023 09:47:01 MSK; path=/; domain=.otus.ru, _ym_isad=2; expires=пт, 06 янв. 2023 05:46:01 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ga=GA1.2.1826237727.1672944361; expires=пт, 09 февр. 2024 09:46:01 MSK; path=/; domain=.otus.ru, _ttp=MX_fiWvC5MLK7In1sESrPWO4q2_; expires=вт, 30 янв. 2024 09:46:22 MSK; path=/; domain=.otus.ru, advcake_session_id=2c958410-3e45-d600-643b-f2275204ad4a; expires=сб, 04 февр. 2023 09:46:02 MSK; path=/; domain=.otus.ru]
+2023-01-05 21:46:24,822 INFO h.Logger [main] Вывели Cookie
+2023-01-05 21:46:29,861 INFO h.Logger [main] Проверили имя указанное при регистрации на главной странице сайта
+2023-01-07 13:07:25,514 INFO h.Logger [main] Открыли Chrome в режиме киоска
+2023-01-07 13:07:25,532 INFO h.Logger [main] Открыли браузер в fullscreen
+2023-01-07 13:07:27,874 INFO h.Logger [main] Перешли на сайт
+2023-01-07 13:07:28,081 INFO h.Logger [main] Кликнули по картинке
+2023-01-07 13:07:28,939 INFO h.Logger [main] Проверили что картинка открылась в модальном окне
+2023-01-07 13:07:31,228 INFO h.Logger [main] Открыли Chrome в headless режиме
+2023-01-07 13:07:31,228 INFO h.Logger [main] Открыли браузер в headless режиме
+2023-01-07 13:07:32,531 INFO h.Logger [main] Перешли в поисковую систему
+2023-01-07 13:07:35,828 INFO h.Logger [main] Ввели в поисковю строку ОТУС и кликнули по кнопке поиска 
+2023-01-07 13:07:36,068 INFO h.Logger [main] Проверка поисковой выдачи
+2023-01-07 13:07:38,233 INFO h.Logger [main] Открыли Chrome в режиме полного экрана
+2023-01-07 13:07:46,226 INFO h.Logger [main] Открыли сайт Отуса
+2023-01-07 13:07:48,906 INFO h.Logger [main] Произвели авторизацю
+2023-01-07 13:07:48,963 INFO h.Logger [main] [advcake_track_url=https%3A%2F%2Fotus.ru%2F%3Futm_source%3Dadvcake%26utm_medium%3Dcpa%26utm_campaign%3Dotus%26utm_content%3Dcityads_5qfB%26advcake_params%3D9tkZ1XP2rgZvKet; expires=пн, 06 февр. 2023 01:07:45 MSK; path=/; domain=.otus.ru, advcake_track_id=db462417-4cf0-88fa-a73a-4e0ca877be98; expires=пн, 06 февр. 2023 01:07:45 MSK; path=/; domain=.otus.ru, oid=df8561b989b6fc1f1a339bc1026af4ac; expires=вс, 11 февр. 2024 01:07:46 MSK; path=/; domain=.otus.ru, advcake_click_id=9tkZ1XP2rgZvKet; expires=пн, 06 февр. 2023 01:07:45 MSK; path=/; domain=.otus.ru, _ym_d=1673086064; expires=вс, 07 янв. 2024 01:07:43 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, sessionid=uwt99xeu6j2d33yupiiubwhh3wpic9qz; expires=пт, 07 апр. 2023 01:07:38 MSK; path=/; domain=otus.ru;secure;; sameSite=Lax, _tt_enable_cookie=1; expires=чт, 01 февр. 2024 01:07:44 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=сб, 07 янв. 2023 01:37:45 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.__arc_domain=gdeslon.ru; expires=чт, 06 июл. 2023 01:07:45 MSK; path=/; domain=.otus.ru, _gid=GA1.2.597404356.1673086064; expires=вс, 08 янв. 2023 01:07:44 MSK; path=/; domain=.otus.ru, analytic_id=1673086066618685; expires=вс, 11 февр. 2024 01:07:46 MSK; path=/; domain=.otus.ru, advcake_utm_partner=otus; expires=пн, 06 февр. 2023 01:07:45 MSK; path=/; domain=.otus.ru, _ym_uid=1673086064267070596; expires=вс, 07 янв. 2024 01:07:43 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.user_id=7d539d9f-233b-4740-b4d2-e7ceb3f9eacb; expires=чт, 06 июл. 2023 01:07:45 MSK; path=/; domain=.otus.ru, _ym_isad=2; expires=вс, 08 янв. 2023 09:07:45 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _gat=1; expires=сб, 07 янв. 2023 01:08:43 MSK; path=/; domain=.otus.ru, _ga=GA1.2.2000919059.1673086064; expires=вс, 11 февр. 2024 01:07:44 MSK; path=/; domain=.otus.ru, _ttp=l2OYdWsZhBqAaRiYsm8oRNKEebM; expires=чт, 01 февр. 2024 01:07:44 MSK; path=/; domain=.otus.ru, advcake_utm_webmaster=cityads_5qfB; expires=пн, 06 февр. 2023 01:07:45 MSK; path=/; domain=.otus.ru, advcake_session_id=c6ec468a-e227-22cd-547a-9772a1605897; expires=пн, 06 февр. 2023 01:07:44 MSK; path=/; domain=.otus.ru]
+2023-01-07 13:07:48,964 INFO h.Logger [main] Вывели Cookie
+2023-01-07 13:07:55,131 INFO h.Logger [main] Проверили имя указанное при регистрации на главной странице сайта
+2023-01-07 13:08:13,738 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё Chrome РІ СЂРµР¶РёРјРµ РїРѕР»РЅРѕРіРѕ СЌРєСЂР°РЅР°
+2023-01-07 13:08:16,352 INFO h.Logger [main] РћС‚РєСЂС‹Р»Рё СЃР°Р№С‚ РћС‚СѓСЃР°
+2023-01-07 13:29:28,536 INFO h.Logger [main] Открыли Chrome в режиме полного экрана
+2023-01-07 13:29:31,854 INFO h.Logger [main] Открыли сайт Отуса
+2023-01-07 13:29:33,553 INFO h.Logger [main] Произвели авторизацю
+2023-01-07 13:29:33,587 INFO h.Logger [main] [advcake_track_id=ba46fb0c-f767-66cc-392e-f3dcadf45915; expires=пн, 06 февр. 2023 01:29:30 MSK; path=/; domain=.otus.ru, oid=b50bf619db30944ddcae013e4145f12d; expires=вс, 11 февр. 2024 01:29:32 MSK; path=/; domain=.otus.ru, sessionid=1qf5ut1wc9f3i6qyl1n9dw5zpwxk8h8e; expires=пт, 07 апр. 2023 01:29:29 MSK; path=/; domain=otus.ru;secure;; sameSite=Lax, _ym_d=1673087370; expires=вс, 07 янв. 2024 01:29:30 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _tt_enable_cookie=1; expires=чт, 01 февр. 2024 01:29:31 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=сб, 07 янв. 2023 01:59:31 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.__arc_domain=gdeslon.ru; expires=чт, 06 июл. 2023 01:29:31 MSK; path=/; domain=.otus.ru, _gid=GA1.2.1236866041.1673087370; expires=вс, 08 янв. 2023 01:29:30 MSK; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=вс, 11 февр. 2024 01:29:32 MSK; path=/; domain=.otus.ru, analytic_id=1673087372410464; expires=вс, 11 февр. 2024 01:29:32 MSK; path=/; domain=.otus.ru, _ym_uid=1673087370833967817; expires=вс, 07 янв. 2024 01:29:30 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.user_id=97a3218b-2d74-46c9-aa0e-c4443ebc2d5c; expires=чт, 06 июл. 2023 01:29:31 MSK; path=/; domain=.otus.ru, _gat=1; expires=сб, 07 янв. 2023 01:30:30 MSK; path=/; domain=.otus.ru, _ym_isad=2; expires=вс, 08 янв. 2023 09:29:31 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ga=GA1.2.1434470565.1673087370; expires=вс, 11 февр. 2024 01:29:30 MSK; path=/; domain=.otus.ru, _ttp=Z1I-8qjGqH569EXAaLpZJaNtnQn; expires=чт, 01 февр. 2024 01:29:31 MSK; path=/; domain=.otus.ru, advcake_session_id=6fde1559-379d-5b5b-8875-a61ecf17050c; expires=пн, 06 февр. 2023 01:29:30 MSK; path=/; domain=.otus.ru]
+2023-01-07 13:29:33,588 INFO h.Logger [main] Вывели Cookie
+2023-01-07 13:29:36,325 INFO h.Logger [main] Проверили имя указанное при регистрации на главной странице сайта
+2023-01-07 13:30:18,015 INFO h.Logger [main] Открыли Chrome в режиме полного экрана
+2023-01-07 13:30:40,740 INFO h.Logger [main] Открыли сайт Отуса
+2023-01-07 13:30:42,357 INFO h.Logger [main] Произвели авторизацю
+2023-01-07 13:30:45,250 INFO h.Logger [main] Проверили имя указанное при регистрации на главной странице сайта
+2023-01-07 13:31:42,716 INFO h.Logger [main] Открыли Chrome в режиме полного экрана
+2023-01-07 13:31:45,703 INFO h.Logger [main] Открыли сайт Отуса
+2023-01-07 13:31:47,393 INFO h.Logger [main] Произвели авторизацю
+2023-01-07 13:31:47,429 INFO h.Logger [main] [advcake_track_id=9b43b270-abd4-dbdf-703e-6c661d605ba5; expires=пн, 06 февр. 2023 01:31:43 MSK; path=/; domain=.otus.ru, oid=997467822cdb4f3a32bdb410e0b3df68; expires=вс, 11 февр. 2024 01:31:46 MSK; path=/; domain=.otus.ru, sessionid=ud2a71tex24q3z7qhvxmogdfvlv6avi0; expires=пт, 07 апр. 2023 01:31:43 MSK; path=/; domain=otus.ru;secure;; sameSite=Lax, _ym_d=1673087504; expires=вс, 07 янв. 2024 01:31:43 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _tt_enable_cookie=1; expires=чт, 01 февр. 2024 01:31:45 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=сб, 07 янв. 2023 02:01:45 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.__arc_domain=gdeslon.ru; expires=чт, 06 июл. 2023 01:31:45 MSK; path=/; domain=.otus.ru, _gid=GA1.2.1323251373.1673087504; expires=вс, 08 янв. 2023 01:31:44 MSK; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=вс, 11 февр. 2024 01:31:46 MSK; path=/; domain=.otus.ru, analytic_id=1673087506188166; expires=вс, 11 февр. 2024 01:31:46 MSK; path=/; domain=.otus.ru, _ym_uid=1673087504691374141; expires=вс, 07 янв. 2024 01:31:43 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.user_id=43c634f1-577d-4f84-be54-79d12cf2a72f; expires=чт, 06 июл. 2023 01:31:45 MSK; path=/; domain=.otus.ru, _gat=1; expires=сб, 07 янв. 2023 01:32:44 MSK; path=/; domain=.otus.ru, _ym_isad=2; expires=вс, 08 янв. 2023 09:31:45 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ga=GA1.2.1974688691.1673087504; expires=вс, 11 февр. 2024 01:31:44 MSK; path=/; domain=.otus.ru, _ttp=15jVSM86dX5cvVbf9ik11C16GEi; expires=чт, 01 февр. 2024 01:31:45 MSK; path=/; domain=.otus.ru, advcake_session_id=a61c1a54-e5bb-a02e-c6ce-617d62694e60; expires=пн, 06 февр. 2023 01:31:43 MSK; path=/; domain=.otus.ru]
+2023-01-07 13:31:47,430 INFO h.Logger [main] Вывели Cookie
+2023-01-07 13:32:05,341 INFO h.Logger [main] Проверили имя указанное при регистрации на главной странице сайта
+2023-01-07 15:11:14,711 INFO h.Logger [main] Открыли Chrome в режиме киоска
+2023-01-07 15:11:14,717 INFO h.Logger [main] Открыли браузер в fullscreen
+2023-01-07 15:11:17,078 INFO h.Logger [main] Перешли на сайт
+2023-01-07 15:11:17,239 INFO h.Logger [main] Кликнули по картинке
+2023-01-07 15:11:17,951 INFO h.Logger [main] Проверили что картинка открылась в модальном окне
+2023-01-07 15:11:20,066 INFO h.Logger [main] Открыли Chrome в headless режиме
+2023-01-07 15:11:20,066 INFO h.Logger [main] Открыли браузер в headless режиме
+2023-01-07 15:11:21,303 INFO h.Logger [main] Перешли в поисковую систему
+2023-01-07 15:11:23,471 INFO h.Logger [main] Ввели в поисковю строку ОТУС и кликнули по кнопке поиска 
+2023-01-07 15:11:23,627 INFO h.Logger [main] Проверка поисковой выдачи
+2023-01-07 15:11:25,966 INFO h.Logger [main] Открыли Chrome в режиме полного экрана
+2023-01-07 15:11:29,011 INFO h.Logger [main] Открыли сайт Отуса
+2023-01-07 15:11:30,628 INFO h.Logger [main] Произвели авторизацю
+2023-01-07 15:11:30,672 INFO h.Logger [main] [advcake_track_id=90ce9c0a-2089-07e1-2095-3009fde67d2e; expires=пн, 06 февр. 2023 03:11:27 MSK; path=/; domain=.otus.ru, oid=f7ffd03c210fe9386bf0814d58b22b2f; expires=вс, 11 февр. 2024 03:11:29 MSK; path=/; domain=.otus.ru, sessionid=b302z2fa7ecyg0d56ka4sfduanbohk8m; expires=пт, 07 апр. 2023 03:11:27 MSK; path=/; domain=otus.ru;secure;; sameSite=Lax, _ym_d=1673093488; expires=вс, 07 янв. 2024 03:11:27 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _tt_enable_cookie=1; expires=чт, 01 февр. 2024 03:11:28 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=сб, 07 янв. 2023 03:41:28 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.__arc_domain=gdeslon.ru; expires=чт, 06 июл. 2023 03:11:28 MSK; path=/; domain=.otus.ru, _gid=GA1.2.1386845590.1673093487; expires=вс, 08 янв. 2023 03:11:27 MSK; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=вс, 11 февр. 2024 03:11:29 MSK; path=/; domain=.otus.ru, _ym_uid=1673093488215196449; expires=вс, 07 янв. 2024 03:11:27 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.user_id=822d31d1-5e6b-4d88-b7bc-10cc5770a028; expires=чт, 06 июл. 2023 03:11:28 MSK; path=/; domain=.otus.ru, _gat=1; expires=сб, 07 янв. 2023 03:12:27 MSK; path=/; domain=.otus.ru, _ym_isad=2; expires=вс, 08 янв. 2023 11:11:28 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ga=GA1.2.1286393066.1673093487; expires=вс, 11 февр. 2024 03:11:27 MSK; path=/; domain=.otus.ru, _ttp=znceSQvLgDV1jOd94XLXQRWmX4F; expires=чт, 01 февр. 2024 03:11:28 MSK; path=/; domain=.otus.ru, advcake_session_id=a3853c80-4884-af45-bc47-689bd838a165; expires=пн, 06 февр. 2023 03:11:27 MSK; path=/; domain=.otus.ru]
+2023-01-07 15:11:30,673 INFO h.Logger [main] Вывели Cookie
+2023-01-07 15:11:33,584 INFO h.Logger [main] Проверили имя указанное при регистрации на главной странице сайта
+2023-01-07 15:12:26,588 INFO h.Logger [main] Открыли Chrome в режиме киоска
+2023-01-07 15:12:26,594 INFO h.Logger [main] Открыли браузер в fullscreen
+2023-01-07 15:12:27,824 INFO h.Logger [main] Перешли на сайт
+2023-01-07 15:12:27,975 INFO h.Logger [main] Кликнули по картинке
+2023-01-07 15:12:28,703 INFO h.Logger [main] Проверили что картинка открылась в модальном окне
+2023-01-07 15:12:30,912 INFO h.Logger [main] Открыли Chrome в headless режиме
+2023-01-07 15:12:30,912 INFO h.Logger [main] Открыли браузер в headless режиме
+2023-01-07 15:12:33,014 INFO h.Logger [main] Перешли в поисковую систему
+2023-01-07 15:12:35,780 INFO h.Logger [main] Ввели в поисковю строку ОТУС и кликнули по кнопке поиска 
+2023-01-07 15:12:35,940 INFO h.Logger [main] Проверка поисковой выдачи
+2023-01-07 15:12:38,136 INFO h.Logger [main] Открыли Chrome в режиме полного экрана
+2023-01-07 15:12:48,671 INFO h.Logger [main] Открыли сайт Отуса
+2023-01-07 15:12:50,272 INFO h.Logger [main] Произвели авторизацю
+2023-01-07 15:12:50,605 INFO h.Logger [main] [advcake_track_id=a859cdc7-c4cc-e6f5-2727-0aed14bd1e77; expires=пн, 06 февр. 2023 03:12:39 MSK; path=/; domain=.otus.ru, oid=5dd67d83bc57a6ae1efb874ddbead06d; expires=вс, 11 февр. 2024 03:12:49 MSK; path=/; domain=.otus.ru, sessionid=2uoq23idplbmgn4jnkrccfgt5ddrhqjy; expires=пт, 07 апр. 2023 03:12:38 MSK; path=/; domain=otus.ru;secure;; sameSite=Lax, _ym_d=1673093559; expires=вс, 07 янв. 2024 03:12:39 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _tt_enable_cookie=1; expires=чт, 01 февр. 2024 03:12:40 MSK; path=/; domain=.otus.ru, _ym_visorc=w; expires=сб, 07 янв. 2023 03:42:40 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.__arc_domain=gdeslon.ru; expires=чт, 06 июл. 2023 03:12:40 MSK; path=/; domain=.otus.ru, _gid=GA1.2.1895007045.1673093560; expires=вс, 08 янв. 2023 03:12:39 MSK; path=/; domain=.otus.ru, utm=utm_source%3Dtypein%26utm_medium%3Ddirect%26utm_campaign%3DNone; expires=вс, 11 февр. 2024 03:12:49 MSK; path=/; domain=.otus.ru, _ym_uid=16730935591000103009; expires=вс, 07 янв. 2024 03:12:39 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, gdeslon.ru.user_id=999325de-bdf7-4411-a39a-299539573f1f; expires=чт, 06 июл. 2023 03:12:40 MSK; path=/; domain=.otus.ru, _gat=1; expires=сб, 07 янв. 2023 03:13:39 MSK; path=/; domain=.otus.ru, _ym_isad=2; expires=вс, 08 янв. 2023 11:12:40 MSK; path=/; domain=.otus.ru;secure;; sameSite=None, _ga=GA1.2.256800218.1673093560; expires=вс, 11 февр. 2024 03:12:39 MSK; path=/; domain=.otus.ru, _ttp=FL1I18ntqLcksoe5PE6zwGy5Ix5; expires=чт, 01 февр. 2024 03:12:40 MSK; path=/; domain=.otus.ru, advcake_session_id=40e8ceb4-4572-1b58-a153-876b61590284; expires=пн, 06 февр. 2023 03:12:39 MSK; path=/; domain=.otus.ru]
+2023-01-07 15:12:50,607 INFO h.Logger [main] Вывели Cookie
+2023-01-07 15:12:54,141 INFO h.Logger [main] Проверили имя указанное при регистрации на главной странице сайта
+2023-01-08 16:17:51,665 INFO h.Logger [main] Открыли Chrome в режиме полного экрана
+2023-01-08 16:18:02,920 INFO h.Logger [main] Открыли сайт Отуса
+2023-01-08 16:18:05,883 INFO h.Logger [main] Произвели авторизацю
+2023-01-08 16:18:13,240 INFO h.Logger [main] Проверили имя указанное при регистрации на главной странице сайта
+2023-01-08 16:20:49,392 INFO h.Logger [main] Открыли Chrome в режиме полного экрана
+2023-01-08 16:20:56,486 INFO h.Logger [main] Открыли сайт Отуса
+2023-01-08 16:21:00,460 INFO h.Logger [main] Произвели авторизацю
+2023-01-08 16:21:00,531 INFO h.Logger [main] Вывели Cookie
+2023-01-08 16:21:10,173 INFO h.Logger [main] Проверили имя указанное при регистрации на главной странице сайта
+2023-01-08 16:24:15,655 INFO h.Logger [main] Открыли Chrome в режиме киоска
+2023-01-08 16:24:15,670 INFO h.Logger [main] Открыли браузер в fullscreen
+2023-01-08 16:24:18,527 INFO h.Logger [main] Перешли на сайт
+2023-01-08 16:24:18,870 INFO h.Logger [main] Кликнули по картинке
+2023-01-08 16:24:19,686 INFO h.Logger [main] Проверили что картинка открылась в модальном окне
+2023-01-08 16:24:22,393 INFO h.Logger [main] Открыли Chrome в headless режиме
+2023-01-08 16:24:22,394 INFO h.Logger [main] Открыли браузер в headless режиме
+2023-01-08 16:24:24,338 INFO h.Logger [main] Перешли в поисковую систему
+2023-01-08 16:24:26,803 INFO h.Logger [main] Ввели в поисковю строку ОТУС и кликнули по кнопке поиска 
+2023-01-08 16:24:27,169 INFO h.Logger [main] Проверка поисковой выдачи
+2023-01-08 16:24:31,029 INFO h.Logger [main] Открыли Chrome в режиме полного экрана
+2023-01-08 16:24:56,527 INFO h.Logger [main] Открыли сайт Отуса
+2023-01-08 16:24:59,967 INFO h.Logger [main] Произвели авторизацю
+2023-01-08 16:25:00,047 INFO h.Logger [main] Вывели Cookie
+2023-01-08 16:25:09,119 INFO h.Logger [main] Проверили имя указанное при регистрации на главной странице сайта

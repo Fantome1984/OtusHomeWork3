@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 
 
-import java.util.concurrent.TimeUnit;
+
 
 public class BaseUiTest {
     protected WebDriver driver;
@@ -41,7 +41,8 @@ public class BaseUiTest {
             driver = new ChromeDriver();
             logger.info("Открыли Chrome в обычном режиме");
         }
-        driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+
+
     }
 
   @AfterEach
